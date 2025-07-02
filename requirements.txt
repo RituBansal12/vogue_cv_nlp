@@ -1,0 +1,17 @@
+pandas
+numpy
+opencv-python
+pillow
+tqdm
+spacy
+keybert
+sentence-transformers
+transformers
+fashion-clip
+fsspec>=2023.1.0,<=2024.9.0
+pyarrow
+huggingface_hub
+fuzzywuzzy[speedup]
+# For spaCy English models, these are not pip packages but should be installed after pip:
+# python -m spacy download en_core_web_sm
+# python -m spacy download en_core_web_trf 
