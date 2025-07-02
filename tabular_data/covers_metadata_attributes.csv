@@ -1,0 +1,1415 @@
+date_column,brands,people,outfit_descriptions
+1990_02_01,"[""Balliet ' s""]","['Cindy Earrings', 'Martha', 'Marie Leavell']","['spring dressing', 'model cindy earrings']"
+1990_01_01,[],[],"['nan', 'nan nan']"
+1989_12_01,"['Ear', 'Ultimo Ltd', 'Bergdorf Goodman', '##an', ""Bullock ' s""]","['Martha', '##eim', 'Marcus', '##ina Blouse', 'N', 'Paul']",[]
+1989_11_01,['##an'],"['Su', '##eim', 'Marc Silk', 'Marcus', 'Bercu', '##zy', 'Michael', 'N']",['marc silk dress']
+1989_10_01,[],"['Petillault', 'G', '##and']",[]
+1989_09_01,"['Anne Klein Stores', 'Butler & Wilson']",['Naomi Campbell'],[]
+1989_08_01,"['Bloomingdale', 'Ultimo']","['##jana Patitz', 'Ta', '##t', 'Donna Karan']",[]
+1989_07_01,"['Ultimo Ltd', 'Bergdorf Goodman']","['. Magni', 'Fred Hayman', '##jana Patitz', 'Isaac Mizrah', '##t', 'I', 'Ta']","['glamour', 'chiffon dress']"
+1989_06_01,['Ralph Lauren Swimwear'],"['##lle Lefebur', '##ste', 'E']",['swimwear']
+1989_05_01,[],"['Cole', 'Francesca Tolot', 'Madonna']",['swimsuit']
+1989_04_01,"['Romanoff Boutique', 'Alaïa New York', 'Caron']","['A', 'Cherry']","['elastic dress', 'romanoff boutique', 'azzedine alaïa cotton']"
+1989_03_01,[],"['##e Otis', 'Carr']",['straw hat']
+1989_02_01,['Le Crayon'],"['Po', '##re Maj', 'Elaine Irwin']","['spring', 'cover model']"
+1989_01_01,"['##y', 'Magni', '##che Bo', 'Barneys New York']","['Laurent', 'Karen Alexander']",['tuxedo']
+1988_12_01,"['s', 'Bloomingdale', 'Calvin Klein', 'Calvin Klein Boutique', 'Carre Otis']","['Linda Evangelista', '. Barnett', 'B']","['calvin klein sweaters', 'sweater']"
+1988_11_01,[],"['Michael', 'Christian Lac']",[]
+1988_10_01,"['M', 'P', 'Altman']","['Kara Young', 'Jordan Marsh', 'Carson Pirie Scott', 'E', '##reta', 'G']","['wool dress', 'dress', 'model kara young']"
+1988_09_01,['Bloomingdale'],"['Nan Duskin', 'Calvin Klein', 'Calvin']",['makeup']
+1988_08_01,['Bergdorf Goodman'],['Stephanie'],[]
+1988_07_01,"[""Macy ' s""]",['Susan Miner'],"['necklace', 'model susan miner']"
+1988_06_01,[],"['Cathy Fedor', 'Paul Stuart']","['cathy fedoruk', 'easy style']"
+1988_05_01,"['Cannon Royal Family', 'Touch', 'Art']",['Carol Motty'],['earrings']
+1988_04_01,"['Lord & Taylor', '##box', 'Pi', 'Hermès Boutique']",[],['underwear']
+1988_03_01,"['Romanoff Boutiques', '##c', 'If']",[],['romanoff boutiques']
+1988_02_01,"[""Bloomingdale ' s"", '##wo', 'Lamb']","['Di', '##anne B']",[]
+1988_01_01,['Bergdorf Goodman'],['Geoffrey Been'],[]
+1987_12_01,"['Bloomingdale', 'Nordstrom', 'Fred Leighton, Ltd']",[],['healthy good looks']
+1987_11_01,"['Bloomingdale', 'Cach', 'Nordstrom', 'Tabandeh']",[],"['earrings', 'sizzle', 'fragrance']"
+1987_10_01,[],"['I', 'Magni', 'Sa']",['earrings']
+1987_09_01,['Am'],['Jack'],"['makeup', 'emanuel ungaro boutique']"
+1987_08_01,['Cap at Barneys New York'],['Alan Bilzerian'],"['busy women', 'barneys new york']"
+1987_07_01,"['Cha', 'Lord & Taylor', 'E', '##qua', 'Cuoio', ""Macy ' s"", 'Indigo']","['Paul', '##ina Porizkova']","['summer cool', 'summer']"
+1987_06_01,[],"['##lle LeF', '##ste', 'E']","['model estelle lefebure', 'skin care']"
+1987_05_01,[],"['##jana Patitz', 'Ta', '##t']","['model tatjana patitz', 'summer style', 'bare skin']"
+1987_04_01,"['Antique Boutique', '##rings', 'Cotton']","['Angie Gooderham', 'Martha', ""Giorgio di Sant ' Angelo"", 'E']",['giorgio']
+1987_03_01,"['YÜ', 'Grand Jury', ""Altman ' s"", '##eiman - Marcus', 'N']","['##lle Lefe', '##ste', 'E', 'I', 'Magni']",['simple hat brim']
+1987_02_01,[],['Sc'],"['makeup', 'isabel canovas']"
+1987_01_01,[],[],['women']
+1986_12_01,"['Barneys New York', 'Collar']",[],"['modern attraction', 'attraction']"
+1986_11_01,"['C', 'Caché Stores', '-', 'E', 'Bloomingdale', 'Nordstrom', 'Tabandeh', '- Sa']","['##lle LeF', '##ste', 'E']","['nordstrom', 'model estelle lefebure']"
+1986_10_01,"['MOD', '##N']",[],"['modern beauty ideal', 'makeup']"
+1986_09_01,[],[],"['nan', 'nan nan']"
+1986_08_01,[],['Cindy Crawford'],"['makeup', 'model cindy crawford']"
+1986_07_01,"['Kni', 'W', 'Ta', '##as']",['Henri Bend'],['makeup']
+1986_06_01,"['Handle With Care', '. H.', 'Hat']","['P', 'C', 'Reed', 'Donna']",['summer beauty']
+1986_05_01,['B'],"['Carrie Simonton', 'Paul', '##ina Porizkova']",['paulina porizkova']
+1986_04_01,['Goodman'],['I Magni'],"['bergdorf', 'goodman', 'bergdorf goodman']"
+1986_03_01,"['Goodman', 'Barneys New York']","['Charles Sumner', 'Berg', 'E', 'Hat', 'Stanley Korshak', '##dorf']",['makeup']
+1986_02_01,"[""Altman ' s"", 'Metropolitan']","['Ari', '##s Is']",[]
+1986_01_01,"['Berrenaka Boutique Art to Wear', 'Details', 'E', 'Artwear']","['D', 'N', 'Linda Spierings', 'Evans']",[]
+1985_12_01,"['##dale', 'Sa']","['Cho', 'Charivar', 'Hat']","['makeup', 'wardrobes']"
+1985_11_01,['Ring'],"['Henri Bend', 'E']",['minimalist makeup']
+1985_10_01,[],[],"['earrings', 'evening makeup']"
+1985_09_01,"['Artwear', 'S.', 'Hat', '##rs', '##yres', 'Bergdorf Goodman']","['A', '##re Scott', 'Miriam', 'E', 'L', 'Je']","['attractiveness', 'fashion']"
+1985_08_01,['##wit Teller'],['Lou Lattimore'],['bonwit teller']
+1985_07_01,[],"['. Magni', 'I', 'Henri Bendel']",['tones']
+1985_06_01,[],"['Frances Kahn', 'I', '. Magni']","['earrings', 'gindi']"
+1985_05_01,['##par'],[],['makeup']
+1985_04_01,['Bill Schiffer Gallery'],"['##re Scott', 'Je']","['earrings', 'evening makeup changes']"
+1985_03_01,"['##dson', ""Altman ' s""]",['Lilly'],['earrings']
+1985_02_01,[],['Brooke Shields'],['brooke']
+1985_01_01,"['La', 'Camille', 'C', 'E', 'Bloomingdale', 'Sa']","['I', 'Magni', 'Sa']",['earrings']
+1984_12_01,"['M & J Savitt Salon', 'NYC Earrings', 'Bergdorf Goodman']",['Phyllis'],['wig']
+1984_11_01,[],[],['makeup']
+1984_10_01,[],[],['self esteem']
+1984_09_01,"['##eiman - Marcus', 'N']","['Bonwi', 'Tell']","['earrings', 'makeup']"
+1984_08_01,"[""Macy ' s""]",[],"['makeup', 'macy']"
+1984_07_01,"['##ul - de - Sac', 'M & J Savitt Salon', 'Bloomingdale', '##eimanMarcus', 'I', 'N']",[],['earrings']
+1984_06_01,['Bloomingdale'],"['Isabella Rossellini', 'I', 'Magni']",['summer bests']
+1984_05_01,"['##eiman - Marcus', 'N', 'Polo / Ralph Lauren']","['I', 'Magni', 'Charivari']",['hat']
+1984_04_01,['Bonwit Teller'],['Joseph'],['cardigan']
+1984_03_01,[],[],"['knit hat', 'wool knit sweater']"
+1984_02_01,['Kruger Gallery'],"['##hari Belafonte Harper', 'S']",['shari belafonte harper']
+1984_01_01,[],"['Elizabeth Arden', '##i Adams', 'Jack']",['makeup']
+1983_12_01,"['Scar', 'Bergdorf Goodman']",[],"['scarves', 'bergdorf goodman']"
+1983_11_01,"['Robinson', 'Princeton University']","['Brooke Shields', 'Magni', 'I']","['earrings', 'brooke', 'brooke shields']"
+1983_10_01,['Bergdorf Goodman'],"['Brooke Shields', 'E', 'Reg']","['brooke shields', 'cover look']"
+1983_09_01,"['Stanley Korshak', 'Frost Bros', 'Grace Jones', ""Altman ' s""]","['##re Scott', 'Je']",['cover look']
+1983_08_01,"[""Altman ' s""]",['Sc'],['altman']
+1983_07_01,[],"['##sta', 'Na', '##ssia Kinski', 'Henri Bendel']","['kinski', 'actress', 'nastassia kinski']"
+1983_06_01,"['O', ""Robinson ' s""]",[],"['paler makeup', 'new allure']"
+1983_05_01,"['OMO Norma', '##i']","['I', 'Kamal', 'Magni']",['cotton blouse']
+1983_04_01,"[""Barney ' s"", 'Neck']","['René', '##e Simonsen']","['model renée simonsen', 'barney']"
+1983_03_01,[],[],[]
+1983_02_01,"['Bloomingdale', 'Luxiva Creme Beige']","['Me', 'Sienna Scar', '##anne B', '##rle Norman', 'Di']","['sienna', 'sienna scarf']"
+1983_01_01,['Bergdorf Goodman'],[],"['bergdorf', 'bergdorf goodman']"
+1982_12_01,[],['Ra'],"['saks fifth avenue', 'gala']"
+1982_11_01,[],['Isabella Rossellini'],[]
+1982_10_01,['Bergdorf Goodman'],[],"['bergdorf', 'wearability', 'jacket', 'bergdorf goodman']"
+1982_09_01,[],[],['fashion']
+1982_08_01,['E'],['Perry Ellis'],[]
+1982_07_01,"['OMO Norma Kamali', 'Bergdorf Goodman']",[],"['new emphasis dress', 'makeup', 'glowing looks', 'fall makeup']"
+1982_06_01,"['Marshall Field', 'OMO Norma']","['John Wanama', 'Hat', 'I', 'Magni', 'B']","['blouse', 'summer']"
+1982_05_01,"['Bloomingdale', 's']","['Na', '##stassia Kinski']","['kinski', 'nastassia kinski']"
+1982_04_01,[],"['Rosemary Silk', 'Lou Latti']",[]
+1982_03_01,[],[],"['nan', 'nan nan']"
+1982_02_01,[],['Perry Ellis'],[]
+1982_01_01,"['Artwear', 'Robert Lee Morris', 'Bergdorf Goodman']","['I', 'Magni']",[]
+1981_12_01,[],"['Lesage', 'Yves Saint Laurent']",['yves saint laurent']
+1981_11_01,"['Montaldo', 'Topps']",['Kim Alexis'],"['sweater', 'slightly adolfo sweater']"
+1981_10_01,[],"['##sta', '##ssi', 'John Freeman', 'Kins', 'Na', 'So', 'Mary McF']","['kinski', 'nastassia kinski']"
+1981_09_01,"['Rayon', ""Garfinckel '"", ""' Neil '""]","['Brooke Shields', 'O']",['brooke shields']
+1981_08_01,"['##ntino', 'Barton Sligh', '##que']","['Kelly Emberg', 'Vale', 'Bouti']",['valentino boutique']
+1981_07_01,"['Ralph Lauren', 'Polo Shop', 'Ultima ll', '##ks', 'Polo / Ralph Lauren Shop', 'Cocon']",['Kelly Emberg'],['ralph lauren']
+1981_06_01,"[""Dayton ' s"", 'Marshall Field', 'Henri Bendel', 'Bullock']","['Kim Alexis', 'Perry Ellis']",[]
+1981_05_01,"['N', 'Marcus', 'OMO Norma Kamal', '##an']","['Brooke Shields', '##eim', 'Red']",['brooke shields']
+1981_04_01,[],"['Kim', 'Carol Motty Silicon', 'Henri Bendel']",['super summer beauty']
+1981_03_01,"['Bloomingdale', 's', 'Ralph Lauren', 'Polo / Ralph Lauren']",['Carol Alt'],['ralph lauren']
+1981_02_01,[],['Kim Alexis'],['american fashion']
+1981_01_01,['M & J Savi'],"['Beverly Johnson', 'Celia Sebir', 'Henri Bend']",['necklace']
+1980_12_01,"['ORNAMENTAL P', '##ol', 'B']","['##and', 'Brooke Shields', 'Abraham', 'Yves Saint Laurent', 'G']",[]
+1980_11_01,['Bergdorf Goodman'],['Kim Alexis'],[]
+1980_10_01,['E'],"['Brooke Shields', 'Joseph Mazer']","['brooke', 'cover', 'brooke shields']"
+1980_09_01,"['New York Collections', 'N', 'Marcus', '##eiman']","['Kim Alexis', 'Mu']",['kim alexis']
+1980_08_01,['##ingdale'],"['##ia Carang', 'Hend', '##ri Bend', 'G', 'Ken Begun']","['antique wearrings', 'knitted', 'sweater']"
+1980_07_01,[],"['##eim', 'John Wanama', 'N', 'Nancy Donahu', 'Marcus']",['nancy donahue']
+1980_06_01,[],['Kim Alexis'],"['american good looks', 'kim']"
+1980_05_01,[],"['##stassja Kinski', '##lo Mastroian', 'Na', 'Marcel', 'Angela Cummings']",['marcello mastroianni']
+1980_04_01,"[""Hudson '"", 'Marshall Field']","['Henri Bend', 'Eva Voorhis', 'Perry Ellis', 'Russell R. Adams']",[]
+1980_03_01,[],"['Sheila Johnson', 'Oscar de la Renta']","['rayon crêpe skirt', 'rayon faille jacket']"
+1980_02_01,[],['Brooke Shields'],['american beauty']
+1980_01_01,"['Bonwit Teller', 'Ben - Amun', 'Bullock ’ s']","['Nancy Donahu', 'Bill Blass', 'Isaac Manev', 'Mu']",[]
+1979_12_01,[],['Kim Alexis'],"['holiday glamour', 'kim alexis', 'kim']"
+1979_11_01,"['Marshall Field', 'Bergdorf Goodman']","['##a Lee', 'Lin', 'Kim Alexis']","['marshall', 'marshall field']"
+1979_10_01,"[""Jacobson '"", ""Sara Frederick '"", ""Creed ' s"", 'Chanel', 'Eye']",['Kim Alexis'],[]
+1979_09_01,"[""Macy ' s"", 'New York Collections', 'Rainbow Art']","['Pamela Richardson', 'Kelly Emberg', 'Jimmy Meyer', 'Henri Bend']",[]
+1979_08_01,"['Barney ’ s', 'Max Factor']","['Nan Duskin', 'Kim Alexis', 'Chuck']","['sweater', 'cotton sweater']"
+1979_07_01,"['Bloomingdale', '##eiman - Marcus', 'N']","['Ce', 'V', 'John Wanama', 'E', '##rise Le St']",['vass']
+1979_06_01,"['##jeangles', 'Marshall', ""Robinson ' s"", 'Clairol', ""Macy ' s"", 'Sweet Fanny Adams']","['Kelly Emberg', 'Jax']",['macy']
+1979_05_01,[],"['Michelle Stevens', 'Lin', 'Andre van Pier', 'Ann Taylor', 'Ko', '##a Lee', 'Melang']",[]
+1979_04_01,"['Sunset', 'Sand Be', 'Rouge', 'Sunset P', 'Shadow']","['Alexandra de Markoff', 'E']",[]
+1979_03_01,[],"['Nancy Donahu', 'Vincent Nasso']",[]
+1979_02_01,[],"['##lyn Smith', '##ac', 'J']",['jaclyn smith']
+1979_01_01,['Orlane'],['Peggy Dillar'],['peggy dillard']
+1978_12_01,[],"['##anne Vela', 'Rose']",['roseanne vela']
+1978_11_01,[],['Michelle Stevens'],"['michelle', 'michelle stevens']"
+1978_10_01,[],['Michele Stevens'],"['makeup', 'michele stevens']"
+1978_09_01,['New York Collections'],"['##anne Vela', 'Rose']","['fall makeup', 'roseanne', 'roseanne vela']"
+1978_08_01,[],['Peggy Dillar'],['peggy dillard']
+1978_07_01,[],"['Major', '##rah Fawcett', 'Far']",['farrah']
+1978_06_01,[],"['##anne Vela', 'Rose']","['roseanne', 'roseanne vela']"
+1978_05_01,[],"['Patti Hansen', 'Hal']",['patti hansen']
+1978_04_01,[],['Patti Hansen'],['patti hansen']
+1978_03_01,[],"['Jacqueline Bisset', 'Stephen Burrows', 'Pat Tennant', 'Henri Bendel']",['jacqueline bisset']
+1978_02_01,"['Saks', 'Julio Shop', 'Julio']",['Patti Hansen'],['julio jacket']
+1978_01_01,[],"['##anne Vela', 'Rose']","['roseanne', 'roseanne vela']"
+1977_12_01,[],[],[]
+1977_11_01,[],['Rene Russo'],[]
+1977_10_01,[],"['##anne Vela', 'Rose']",['roseanne vela']
+1977_08_01,[],['Peggy Dillar'],['peggy dillard']
+1977_07_01,[],['Patti Hansen'],"['makeup', 'patti hansen']"
+1977_06_01,[],[],['makeup']
+1977_05_01,[],"['##anne Vela', 'Rose']",['roseanne vela']
+1977_05_01,[],"['##anne Vela', 'Rose']",['roseanne vela']
+1977_04_01,"[""' s Angels""]","['##rah Fawcett', 'Far']",['farrah']
+1977_03_01,[],['Patti Hansen'],['makeup']
+1977_02_01,[],"['Patti Hansen', 'Elizabeth']","['patti', 'patti hansen']"
+1977_01_01,[],[],['beauty']
+1976_12_01,[],[],['makeup']
+1976_11_01,[],[],"['makeup', 'white handkerchief']"
+1976_10_01,[],['Jacqueline Bisset'],['jacqueline']
+1976_09_01,['New'],['Bill Blass'],[]
+1976_07_01,['##ston'],[],[]
+1976_06_01,"['Halston', 'Halston Ltd']",[],[]
+1976_05_01,[],['René Russo'],[]
+1976_04_01,"['Bloomingdale', 'Vogue']",[],"['contemporary beauty', 'vogue']"
+1976_03_01,[],[],['silk']
+1976_02_01,['Calvin Klein'],[],"['sweater', 'calvin klein', 'american style']"
+1976_01_01,['Cobra'],"['Frank Giordano', 'Dan Pollock', 'Henri Bend', 'Van', 'Les Bernard', 'Geoffrey Beene']",[]
+1975_12_01,[],[],[]
+1975_11_01,[],['Scott'],[]
+1975_10_01,[],"['##anne Vela', 'Un', '##gar', 'Rose']","['pink satin scarf', 'ungaro']"
+1975_09_01,['New York'],['Geoffrey Beene'],[]
+1975_08_01,[],[],['makeup']
+1975_07_01,[],[],['blue eye shadow']
+1975_06_01,[],[],[]
+1975_05_01,[],['Geoffrey Been'],['neckline']
+1975_04_01,['Anne Klein & Company'],[],[]
+1975_03_01,['##H'],"['Margau', '##x Hemingway']",['margaux hemingway']
+1975_02_01,[],"['Oscar de la Renta', 'Ch']",['cher']
+1975_01_01,"['Peter & Peggy', 'P. C. Designs']","['Lauren Hutton', 'Les Bernard']",['lauren hutton']
+1974_12_01,[],['Halston'],"['small packages', 'red silk chiffon']"
+1974_11_01,[],['Mary McF'],['glamorous cher']
+1974_10_01,[],['Saint Laurent'],['paris']
+1974_09_01,['New'],"['Halston', 'Lauren Hutton']",[]
+1974_08_01,"['J. L. Sport', '##eiman - Marcus', 'Ferragamo', 'N']","['##sper', 'Ka']",[]
+1974_07_01,"['##aux', 'Bergdorf Goodman']","['Dub', 'Oscar de la Renta', 'Michael Moraux', 'Jules van Rouge']",[]
+1974_06_01,[],[],"['wrapped', 'scarf']"
+1974_05_01,[],"['##er', 'Ralph Lauren', 'Ch']",['cher']
+1974_04_01,[],[],[]
+1974_03_01,[],[],[]
+1974_02_01,[],['Anne Klein'],"['knit', 'sweaters']"
+1974_01_01,[],['Calvin Klein'],"['raincoat', 'coat']"
+1973_12_01,[],[],"['nan', 'nan nan']"
+1973_11_01,[],"['Cy', '##bill Shepherd']",['cybill shepherd']
+1973_10_01,[],['Lauren Hutton'],['lauren hutton']
+1973_09_01,"['Lord & Taylor', '##wit Teller']","['##tie Carnegie', 'Hat', 'Oscar de la Renta', 'Chin', 'Jules van Rouge']",[]
+1973_08_01,['Bloomingdale'],"['Jordan Marsh', 'Lauren Hutton']",[]
+1973_07_01,[],"['Karen Graham', 'Chin']",[]
+1973_06_01,[],"['Lauren Hutton', 'Galanos']",['lauren']
+1973_05_01,[],"['Oscar de la Renta', 'Ra', '##quel Welch']",['welch']
+1973_04_01,"['##eim', 'N', 'Kaufmann ’', '…']","['Michael Danyon', 'Karen Graham', 'Marcus', 'Bill Blass']","['earrings', 'necklace', 'karen graham']"
+1973_03_01,"['Lord & Taylor', 'Vogue']","['I', 'Magni', 'Lauren Hutton']",['vogue']
+1973_02_01,"['##ut', 'Vogue', ""Garfinckel '""]","['Joseph Horne', 'B', 'Dr']",[]
+1973_01_01,[],"['David Crystal', 'Lauren Hutton', 'Ko', '##rrigan']","['new prettiness', 'lauren', 'lauren hutton']"
+1972_12_01,[],"['##er', 'Ch']","['cher', 'nan']"
+1972_11_15,[],"['Valentino', 'Ra', '##quel Welch']","['welch', 'raquel', 'raquel welch']"
+1972_11_01,[],['Norell'],['absolute dazzle']
+1972_10_15,[],['Halston'],[]
+1972_10_01,['Vogue'],"['Karen Graham', 'Karen']","['karen graham', 'karen']"
+1972_09_15,[],"['Mo', '##llie Parnis Bo', '##que']",['mollie parnis boutique']
+1972_09_01,"['New York', 'Vogue']",['Adolf'],[]
+1972_08_15,[],['Anne Klein'],['sweater']
+1972_08_01,[],"['Georg Jensen', 'Marius Hansen', 'Ka']","['marius hansen necklace', 'trifari earrings']"
+1972_07_01,['Van Cleef & Arpels'],['Adolf'],[]
+1972_06_01,[],[],[]
+1972_05_01,['Pranx'],[],['summer cool']
+1972_04_15,[],"['Miss Dior', 'Sophia Loren']","['sophia loren', 'sophia']"
+1972_04_01,[],['Ch'],['cher']
+1972_03_15,[],['Gucci'],['gucci']
+1972_03_01,[],"['Cy', '##bill Shepherd']","['personal style', 'silk']"
+1972_02_15,"['Lord & Taylor', 'Mo', '##a', 'Modelia']","['Don Simonelli', 'Lacaver']",[]
+1972_02_15,"['Lord & Taylor', 'Moda Romana', 'Modelia']","['Don Simonelli', 'Lacaver']",['necklace']
+1972_02_01,['New York Collections'],['Bill Blass'],[]
+1972_01_15,[],[],['jacket']
+1972_01_01,['Herman Schmidt & Brendle'],"['Di Vera', 'Dane', 'Lauren Hutton']",['knit']
+1971_12_01,"['H', 'S']",['Grace'],[]
+1971_11_15,[],[],"['ivory', 'pleats', 'crepe', 'soft ivory crepe']"
+1971_11_01,[],['Oscar de la Renta'],['black taffeta']
+1971_10_15,[],['Calvin Klein'],[]
+1971_10_01,[],[],['red silk chiffon']
+1971_09_15,[],[],[]
+1971_09_01,"['Handcraft', 'The New York Collections', 'Sc']","['##e Wacs', 'Eli']",[]
+1971_08_15,['Vogue'],[],"['fashion', 'vogue']"
+1971_08_01,[],[],[]
+1971_07_01,"['Liberty of London', 'For']","['Anne Klein', 'Glen']",[]
+1971_06_01,[],['Ken Scott'],[]
+1971_05_01,[],"['Papal', '##lo Mastroianni', 'Lauren Hutton', 'R', 'Marcel']","['rocco', 'lauren hutton']"
+1971_04_15,[],['Elizabeth Taylor'],['violet eyes']
+1971_04_01,[],[],[]
+1971_03_15,[],['Goldie Hawn'],[]
+1971_03_01,[],"['Jean Shrimpton', 'Cardinali']",[]
+1971_02_15,[],['Halston'],"['turtleneck', 'turtle']"
+1971_02_01,[],['Catherine Deneuve'],['catherine deneuve']
+1971_01_15,[],['Catherine Jourdan'],"['denim', 'blue denim', 'catherine jourdan']"
+1971_01_01,[],"['David Crystal', 'Lauren Hutton']","['crystal', 'lauren hutton', 'david crystal']"
+1970_12_01,[],['Sophia'],"['sophia', 'tawny eyes', 'tawny skin', 'tawny']"
+1970_11_15,"['##uza Creations', 'R']",[],['collar']
+1970_11_01,[],['Geoffrey Been'],[]
+1970_10_15,[],['Geoffrey Been'],[]
+1970_10_01,[],[],"['little helmet', 'helmet']"
+1970_09_15,[],"['Nor', '##ell']",['midicoat']
+1970_09_01,[],"['Lauren Hutton', 'Penn']","['hutton', 'lauren hutton']"
+1970_08_15,[],['Ka'],"['midi', 'dress']"
+1970_08_01,[],['Kimberly'],"['skirt', 'dirndl skirt']"
+1970_07_01,"['La France', 'Originala']",['Jean Shrimpton'],"['cotton', 'jean shrimpton']"
+1970_06_01,[],[],[]
+1970_05_01,[],"['Pi', '##lar Crespi', 'Mimi di N']",[]
+1970_04_15,[],[],"['plaid', 'little plaid coat', 'coat']"
+1970_04_01,['##in'],"['Card', 'Jean Shrimpton']","['shrimpton', 'jean shrimpton']"
+1970_03_15,[],['Lauren Hutton'],"['big nan', 'lauren hutton']"
+1970_03_01,[],['Ali MacGraw'],[]
+1970_02_15,[],[],[]
+1970_02_01,[],[],"['chiffon', 'printed silk chiffon']"
+1970_01_15,[],[],[]
+1970_01_01,[],['Jane Birkin'],"['1970', 'jane birkin']"
+1969_12_01,[],"['##r', 'Co']",[]
+1969_11_15,[],['Card'],['sequins']
+1969_11_01,[],[],"['nan', 'nan nan']"
+1969_10_15,[],[],"['golden shoulder straps', 'crêpe']"
+1969_10_01,[],[],"['nan', 'nan nan']"
+1969_09_15,[],[],[]
+1969_09_01,[],[],[]
+1969_08_15,[],[],"['burgundy velvet', 'burgundy']"
+1969_08_01,[],['Jacqueline Bisset'],"['bisset', 'jacqueline bisset', 'jacqueline']"
+1969_07_01,[],[],"['wrapped', 'head']"
+1969_06_01,[],[],['suntan']
+1969_05_01,[],[],['pale pink']
+1969_04_15,[],"['##t Ekla', '##rit', 'B']",['britt ekland']
+1969_04_01,[],[],['cloth']
+1969_03_15,[],['Jean Shrimpt'],[]
+1969_03_01,[],[],[]
+1969_02_15,[],[],[]
+1969_02_01,[],[],['1969']
+1969_01_15,[],[],['pants']
+1969_01_01,['Chemise Lacoste'],[],['lacoste']
+1968_12_01,[],[],['diamante light']
+1968_11_15,[],[],[]
+1968_11_01,[],['Card'],[]
+1968_10_15,[],[],['flowers']
+1968_10_01,[],[],[]
+1968_09_15,[],[],"['weskit', 'turnout']"
+1968_09_01,['New York'],[],['coat']
+1968_08_15,[],[],['plaid']
+1968_08_01,[],[],['shirtdress']
+1968_07_01,['Vogue'],['Lauren Hutton'],"['lauren hutton', 'vogue']"
+1968_06_01,[],[],[]
+1968_05_01,[],['Katharine Ross'],"['katharine', 'katharine ross']"
+1968_04_15,[],"['Jean Shrimpton', 'Romney']",[]
+1968_04_01,[],[],"['green', 'grass']"
+1968_03_15,[],['Tiziani'],['tiziani']
+1968_03_01,[],[],"['pink hair ribbons', 'freckles', 'romantic']"
+1968_02_15,[],[],[]
+1968_02_01,[],[],['american fashion']
+1968_01_15,[],[],[]
+1968_01_01,['Lacoste'],[],['lacoste']
+1967_12_01,"['Opening', 'Vogue']",['Jean Shrimpton'],['jean shrimpton']
+1967_11_15,[],['T'],"['jumpsuit', 'twiggy']"
+1967_11_01,[],[],[]
+1967_10_15,['Val'],[],['ruffled val lace']
+1967_10_01,[],[],"['gigi', 'velvet']"
+1967_09_15,[],[],[]
+1967_09_01,['New York Collections'],[],['pink wools']
+1967_08_15,[],['Mia'],[]
+1967_08_01,[],[],['twig']
+1967_07_01,[],[],['twig']
+1967_06_01,[],[],"['raincoat', 'lacquer crocodile nan', 'coat']"
+1967_05_01,[],"['##dice Bergen', 'Can']","['bergen', 'candice bergen']"
+1967_04_15,['Vogue'],[],"['twiggy', 'vogue', 'twiggy girl']"
+1967_04_01,[],[],['openers']
+1967_03_15,[],[],['coral']
+1967_03_01,[],['George Halley'],['halley']
+1967_02_15,[],[],['plaid']
+1967_02_01,[],[],['dress']
+1967_01_15,[],[],"['baby dress', 'white wickets']"
+1967_01_01,[],['Marcella Borghes'],"['stripes', 'white stripes']"
+1966_12_01,[],[],[]
+1966_11_15,[],[],[]
+1966_11_01,[],['Tu'],"['turquerie', 'silk']"
+1966_10_15,[],[],['champagne']
+1966_10_01,[],[],"['nan', 'lipstick']"
+1966_09_15,['Dynel'],[],['rings nan']
+1966_09_01,['Opening Vogue'],[],['vogue']
+1966_08_15,[],[],[]
+1966_08_01,[],[],[]
+1966_07_01,[],[],['fireworks']
+1966_06_01,[],[],['summer']
+1966_05_01,[],[],['cutaway dress']
+1966_04_15,['Saint Laurent'],['Saint'],[]
+1966_04_01,[],[],[]
+1966_03_15,['Super Streisand TV'],"['St', '##and', '##reis', 'Bar']",['super streisand tv']
+1966_03_01,[],[],['harlequin diamonds']
+1966_02_15,[],[],['wig']
+1966_02_01,[],[],"['spring', 'american fashion']"
+1966_01_15,[],[],[]
+1966_01_01,[],['Dyne'],[]
+1965_12_01,[],[],[]
+1965_11_15,[],[],"['feathers', 'white fur evening', 'sleek snowy feathers']"
+1965_11_01,['Vogue'],['Laurent'],['vogue']
+1965_10_15,[],[],[]
+1965_10_01,[],[],"['silk', 'silk velvet']"
+1965_09_15,['Vogue'],[],[]
+1965_09_01,[],[],"['nan', 'nan nan']"
+1965_08_15,[],[],[]
+1965_08_01,[],[],"['young chicerinos', 'chicerinos']"
+1965_07_01,[],[],"['lips', 'silvery']"
+1965_06_01,"['Make', 'Faber']",['Op'],[]
+1965_05_01,[],[],"['blouson', 'pumpkin colour']"
+1965_04_15,[],['Guy Laroche'],[]
+1965_04_01,[],[],['brilliant silk poppies']
+1965_03_15,[],[],[]
+1965_03_01,[],[],"['flowers', 'silk organza flowers']"
+1965_02_15,[],[],[]
+1965_02_01,['Vogue'],[],[]
+1965_01_15,[],[],[]
+1965_01_01,[],[],[]
+1964_12_01,[],[],['christmas wonders']
+1964_11_15,['##re'],['Co'],[]
+1964_11_01,"['Vogue', 'Givenchy']",['Audrey Hepburn'],['hepburn']
+1964_10_15,['Castillo'],[],"['jewelled white satin', 'tawny gleaming skin', 'satin']"
+1964_10_01,[],[],[]
+1964_09_15,[],[],['ornamental']
+1964_09_01,[],[],['scarf']
+1964_08_15,[],[],['white fur']
+1964_08_01,[],[],[]
+1964_07_01,[],[],['silk']
+1964_06_01,[],[],[]
+1964_05_01,[],[],[]
+1964_04_15,[],[],['really pretty hats']
+1964_04_01,[],[],[]
+1964_03_15,[],"['##nos', 'Gala']",[]
+1964_03_01,[],[],['daisies']
+1964_02_15,[],[],['fitness']
+1964_02_01,[],[],['brilliant mixed anemones']
+1964_01_15,[],[],['south']
+1964_01_01,[],[],[]
+1963_12_01,[],[],[]
+1963_11_15,[],[],['night']
+1963_11_01,['Dior'],[],[]
+1963_10_15,[],[],['red']
+1963_10_01,[],[],[]
+1963_09_15,[],[],[]
+1963_09_01,[],[],[]
+1963_08_15,[],[],['tweed']
+1963_08_01,[],[],"['colours', 'coat']"
+1963_07_01,[],[],"['cotton', 'congo']"
+1963_06_01,[],[],[]
+1963_05_01,[],[],['hats']
+1963_04_15,[],[],"['backstage', 'paris']"
+1963_04_01,['Dior'],[],['shiny biscuit baku']
+1963_03_15,[],[],['waistcoat']
+1963_03_01,[],[],[]
+1963_02_15,[],[],['superb tailoring']
+1963_02_01,[],[],[]
+1963_01_15,[],[],['beret']
+1963_01_01,[],[],['dress']
+1962_12_01,[],[],"['nan', 'nan nan']"
+1962_11_15,[],['Capucci'],['wig']
+1962_11_01,[],['Sophia Loren'],[]
+1962_10_15,[],[],[]
+1962_10_01,[],[],[]
+1962_09_15,['Crown of Portugal'],[],['diamond']
+1962_09_01,[],[],['suit']
+1962_08_15,[],[],[]
+1962_08_01,[],[],[]
+1962_07_01,[],[],['pink silk organza']
+1962_06_01,['Mainbocher'],[],['flowers']
+1962_05_01,[],[],[]
+1962_04_15,[],[],"['oxeye daisies', 'daisies', 'flowers']"
+1962_04_01,[],[],"['chiffon', 'newest chiffon']"
+1962_03_15,[],[],['woman']
+1962_03_01,['Vogue'],[],"['pink', 'vogue']"
+1962_02_15,[],[],['fashion impact']
+1962_02_01,[],[],"['suit', 'jacket']"
+1962_01_15,[],[],"['nan', 'fashion']"
+1962_01_01,[],[],[]
+1961_12_01,[],[],[]
+1961_11_15,[],[],[]
+1961_11_01,[],[],[]
+1961_10_15,[],['Di'],[]
+1961_10_01,['Chan'],[],['chanel']
+1961_09_15,['Dior'],[],[]
+1961_09_01,[],[],[]
+1961_08_15,[],[],['velvet']
+1961_08_01,[],[],[]
+1961_07_01,[],[],[]
+1961_06_01,[],[],[]
+1961_05_01,[],['Sophia Loren'],['sophia']
+1961_04_15,[],[],[]
+1961_04_01,[],[],['apricot']
+1961_03_15,[],['Paisley'],[]
+1961_03_01,[],[],['hat']
+1961_02_15,[],[],[]
+1961_02_01,[],[],"['nan', 'nan nan']"
+1961_01_15,[],[],[]
+1961_01_01,[],[],['gold']
+1960_12_01,[],[],['necklace']
+1960_11_15,[],[],['contemporary']
+1960_11_01,[],[],"['nan', 'nan nan']"
+1960_10_15,[],[],[]
+1960_10_01,[],[],['coat']
+1960_09_15,[],[],['greatcoat']
+1960_09_01,[],[],['hat']
+1960_08_15,[],[],[]
+1960_08_01,[],[],['leopard']
+1960_07_01,[],[],"['organdie hat', 'organdie', 'hat']"
+1960_06_01,[],[],"['silk', 'bright blue silk']"
+1960_05_01,[],[],['linen']
+1960_04_15,[],[],[]
+1960_04_01,[],[],[]
+1960_03_15,[],[],['suit']
+1960_03_01,[],[],"['flower', 'carnations']"
+1960_02_15,[],[],['white stephanotis']
+1960_02_01,[],[],"['nan', 'nan nan']"
+1960_01_15,[],[],[]
+1960_01_01,[],['##is Jane Fonda'],['msis jane fonda']
+1959_12_01,[],[],"['white cashmere', 'cashmere']"
+1959_11_15,['Vogue'],[],['choker']
+1959_11_01,[],[],"['leopard', 'nan', 'fur']"
+1959_10_15,[],[],[]
+1959_10_01,[],['Nina Ricci'],"['ricci', 'nina']"
+1959_09_15,[],[],['theatre suit']
+1959_09_01,[],[],['lipstick']
+1959_08_15,[],['Brooke Hayward'],[]
+1959_08_01,[],[],[]
+1959_07_01,[],[],[]
+1959_06_01,[],[],"['chiffon', 'silk chiffon']"
+1959_05_01,[],[],[]
+1959_04_15,[],[],"['cover', 'nan', 'people']"
+1959_04_01,['Orion'],[],['orion']
+1959_03_15,['Chanel'],"['Paul', '##e Rizzo']",[]
+1959_03_01,[],[],"['palest lowers', 'paleness']"
+1959_02_15,[],[],['chameleon']
+1959_02_01,[],[],['red wool souffle']
+1959_01_15,['Vogue'],[],['vogue']
+1959_01_01,['Vogue'],[],"['1959 fashion', 'vogue']"
+1958_12_01,[],[],"['pink', 'bright pink nan']"
+1958_11_15,[],"['##el', 'Chan']",['chanel']
+1958_11_01,[],[],"['dress', 'coat']"
+1958_10_15,[],[],[]
+1958_10_01,[],['Leo'],"['leopard', 'nan']"
+1958_09_15,[],[],[]
+1958_09_01,[],[],['bright']
+1958_08_15,[],[],['coat']
+1958_08_01,[],[],[]
+1958_07_01,[],[],"['roses', 'new beach roses']"
+1958_06_01,[],['Butterfly Pink'],['pink flower wig']
+1958_05_01,[],[],"['chiffon skin', 'chiffon']"
+1958_04_15,[],[],[]
+1958_04_01,[],[],['flowered clocherie']
+2025_06_01,"['Tiffany & Co', 'Shi', 'p']","['Hailey Bieber', 'Gay', '##ane Mnatsakanyan']",['hailey bieber']
+2025_05_01,['Savile Row'],"['Rocky Ozwald Boateng', 'De Beer', 'Oz', '##wald Boateng']",[]
+2025_04_01,"['Nudes Loew', 'Matte Foundation', 'lo']","['Phoebe Phil', 'Jenny', 'G', '##igi Hadid']","['gigi', 'phoebe philo shoes', 'gigi hadid']"
+2025_03_01,"['Tiffany & Co', '& Gab']","['Elsa', 'Jean Schlumberger', 'Sabrina Carpenter']",[]
+2025_02_01,['Chicago Sky'],"['C', 'Susie Sobol', 'Angel Reese', '##e Choi', 'Nor', 'Lac', '##y Redway', 'Dr', '##i Yamana', '##uri']",['wnba']
+2024_12_01,[],"['Steven Meisel', 'Lars Nord', 'Kai', 'Grace Coddington', 'Jin Soon Choi', 'Marc Jacobs']",[]
+2024_11_01,[],"['I', '##rina', 'Erin Moffett', 'Billie Eilish']",[]
+2024_10_01,"['Star Touch Agency', 'Glitterbels', 'Triclone Skin Tech Foundation', '##nciaga', 'Balenciaga']","['Power', 'Kim Truong', 'Balen', 'Lady Gaga', 'Hailey']",['lady gaga']
+2024_09_01,"['Cartier High Jewelry', 'Cartier', 'Jewel']","['Michael Kors', 'Blake Lively']",[]
+2024_08_01,"['Ralph Lauren', 'Lauren']","['Hair', 'Irene Neuwi', 'Sally Hersh', 'Jill Biden']",['irene neuwirth earrings']
+2024_06_01,['Chanel'],"['Lu', '##mi Glotion', 'Kendall Jenner']",['kendall jenner']
+2024_05_01,['&'],"['##day', 'Zen']",['zendaya']
+2024_04_01,"['##kor', 'Carol Ai Studio']","['Michael Kors', '##co Gau', 'Matthew Neff', 'Ana Khou', 'Co']",[]
+2024_03_01,[],['Miuccia Prada'],"['miuccia prada', 'miuccia', 'prada']"
+2024_02_01,"['g', ""Victoria ' s Secret"", 'Sweat', '##st', '##ah', 'Carol']","['##ko Tsuchihashi', 'Yu', 'Gabriela Hear', 'Matthew Neff', 'Sienna Miller']",['sienna miller']
+2023_12_01,['Dress'],"['Nicki Minaj', 'Irene Neuwi', 'Cha', 'Dawn Sterling']","['irene neuwirth earrings', 'nicki', 'nicki minaj']"
+2023_11_01,"['##ton', 'V', 'Tiffany & Co']","['Carey Mulligan', '##a Qua', 'Am', 'Della George']",['intensive serum dress']
+2023_10_01,['Van Cleef & Arp'],"['Blair', 'Jane Law', 'Carson Darling', 'Kate Winslet']",[]
+2023_09_01,['##rs'],"['D', 'Cindy Crawford', 'Linda Evangelista', 'Michael Ko', '##gelist']",[]
+2023_08_01,[],"['Hailey Desjardin', 'Olivia Rodrigo', 'Riley Miranda']",['olivia rodrigo']
+2023_06_01,['Chopard'],"['Tom Bach', 'Mar', '##rina', '##got Robbie', 'I']",[]
+2023_05_01,[],"['##ut Ake', 'Devon Aoki', 'Hadid', 'Ad', 'An', 'G', '##igi Hadid', '##ok Yai']",[]
+2023_04_01,"['Levi', 'Church']","['Cara Delev', 'Anthony Vaccare']",['anthony vaccarello jacket']
+2023_03_01,[],"['Hailey Desjardin', '##h Badu', '##ryka', 'E']",['erykah badu']
+2023_02_01,"['Dress', 'Tiffany & Co']","['T', '##hao Hu', 'Florence Pugh', 'Dawn Sterling']",[]
+2022_12_01,[],"['Mary Dress', 'Hailey Desjardin', 'Chris Appleton', 'Jennifer Lopez']","['jennifer lopez', 'lopez']"
+2022_11_01,['gucci'],"['Michaela Coel', 'Alessandro Michele']",[]
+2022_10_01,"['Dior Forever Foundation', 'Dior']","['##lie Johnson', 'Susie Kourinian', 'Ash', 'Jennifer Lawrence']",['jennifer lawrence']
+2022_09_01,"['##LGARI', '##ga', 'B']","['##no Sanaya', 'Ni', 'Dawn Sterling', 'Serena Williams', 'Ba']",[]
+2022_08_01,"['Louis Vuitton', 'Cartier']","['Hailey Desjar', 'Emma Corrin']",['cartier chain necklace']
+2022_06_01,[],"['##a Li', 'Du']","['dua lipa', 'lipa']"
+2022_05_01,['Al'],"['##anna', '##ih', 'R']","['rihanna', 'chopard earrings']"
+2022_04_01,['##la'],"['Bella Hadid', 'John Galliano']",['model bella hadid']
+2022_03_01,[],"['Kim Truong', '##mi', '##k Kourinian', 'Kim Kardashian', '##m Truong', 'Die', 'Has']",['softsculpt dress']
+2022_02_01,['##ue'],"['Alexander McQ', '##ina Goldstein', '##ye', 'An', '##on Jung', 'Bet', 'Ho', 'Manic', '##eta']",[]
+2022_01_01,['##kor'],"['Em', 'Le V', 'Olivia Wilde', '##i Kudo', 'Louise Wallis', 'Chan']",[]
+2021_12_01,['& Gab'],"['Sarah Jessica Parker', 'Ha', 'Godfrey']",['dior bracelets']
+2021_11_01,['##tier'],"['Adele', 'Car']",['adele']
+2021_10_01,"['Totale Super Potent Serum Foundation', 'Di', 'Capt', 'Vendôme']","['##hiapar', 'Lord', 'Lars Nordensten', 'Megumi Yamamoto', '##e']","['wears', 'lorde', 'schiaparelli']"
+2021_09_01,[],"['Tom Ford', 'Lee', 'Kai', 'An', '##a G', '##ok Ya']",['model kaia gerber']
+2021_08_01,['Tiffany & Co'],"['Sally Hershberger', 'Leah Huntsing', 'Oscar de la Ren', 'Jill Biden']",[]
+2021_06_01,[],"['##a Gerber', 'Em', 'Kai', '##i Kudo', 'Maria Tash']",[]
+2021_05_01,"['Vogue', 'Khems Design']","['Amanda Gorman', 'Louis Vuitton', 'B']","['vogue', 'louis vuitton blanket']"
+2021_04_01,"['Cartier', 'Cartier High Jewel']","['Selena Gomez', 'Anthony Vaccare']","['cartier earrings', 'selena gomez', 'selena']"
+2021_03_01,"['Me Matte + Poreless Foundation', 'Fi']","['G', '##igi Hadid']",['model gigi hadid']
+2021_02_01,['Upper Studios'],"['Kamala Harris', 'Donald', 'Natalie Hail']",[]
+2021_01_01,"['Vogue', 'N']","['Man', 'Susie', 'Em', '##i Ku']",['vogue']
+2020_12_01,[],"['Jenny Longworth', 'Malcolm Edwards', 'Jacket', 'Harry Styles', '##sa To', 'Am', '##fi', 'Na']",[]
+2020_11_01,['Dior Haute'],"['T', '##hao Hyun', 'Naomi Campbell']","['sublime perfection dress', 'naomi campbell']"
+2020_10_01,['Dr'],"['##ess', 'Vale', '##zo', 'Cho', 'Jason', 'Liz']",['beverly hills earrings']
+2020_09_01,['Vogue'],"['Kerry James Marshall', 'Aurora James', 'Jordan Casteel']",[]
+2020_08_01,[],"['##tie Shackelford', 'Simone Biles', 'Kris']",[]
+2020_06_01,[],[],"['nan', 'nan nan']"
+2020_05_01,"['Tiffany Victoria', 'Tiffany & Co']","['##al Gadot', 'G']",[]
+2020_04_01,['Saint Laurent'],"['U', 'Sc', '##gbad Abdi', 'Anthony Vaccarello', 'Ce']",['denim vest']
+2020_03_01,"['Jacket', 'Chanel', '##a', '##rada', 'Jacob & Co', 'P', 'Chan']","['##lli Smith', 'E', '##h', '##ilis', 'Ho']",['chanel earrings']
+2020_02_01,['Van Cleef & Blaze'],"['Stephen Jones', 'Marc', 'Florence Pugh']",['marc jacobs hat']
+2020_01_01,"['##ta', 'C', 'Oscar de la Renta']","['Sally Hersh', 'Irene Neuwi', 'Oscar de la Ren']",['hirotaka diamond earring']
+2019_12_01,['Bergdorf Goodman'],"['Bridge', '##ies Van Note', 'Nik', '##os Koulis', 'Dr', 'Anthony Vaccare', 'Phoebe Waller']","['cuff bracelet', 'anthony vaccarello dress']"
+2019_11_01,[],"['##ihanna', 'Jade T', 'R']",['forevermark earrings']
+2019_10_01,"['Dolce & Gabbana', '##lce & Gabbana']",['Olivia Colman'],['hermès boots']
+2019_09_01,"['##i', 'Louis Vuitton', 'Cartier', 'B']","['Taylor Swift', 'Vuitton']",[]
+2019_08_01,['Dior'],"['Eric Javi', 'Toulouse', 'Aria', '##na Grande']",[]
+2019_07_01,[],"['John Hardy', '##got Robbie', 'Mar']",['margot robbie']
+2019_06_01,"['& Brightening Dr', 'Ralph Lauren', 'Lauren']",['Zenday'],['actor zendaya']
+2019_05_01,['Chanel'],"['Tom', 'Susie Kouri', 'Irene Neuwirth', 'Kim Kardashian West', 'Manic']",[]
+2019_04_01,"['Dolce & Gabbana', 'Oscar de la On Bae', 'Marni']","['##ika Padukone', '##na Bae', 'Doo', 'Scarlett Johansson', 'Johan', 'Deep']",['actors doona bae']
+2019_03_01,"['Tiffany & Co', 'Dior']","['Justin Bieber', 'Hailey Bieber']","['hailey bieber', 'bieber']"
+2019_02_01,['Me & Ro'],"['Reese Witherspoon', 'T', 'Susie', '##hu', '##y Ng', 'Manic']",['actor reese witherspoon']
+2019_01_01,"['Tom Ford', 'Christy Rilling Studio', 'Rouge Dior', 'Dr', 'Manic']","['Tom Ford', '##nka Chopra', '##umi Yamamoto', '##riya', 'P', 'Meg']",[]
+2018_12_01,"['Dior', 'London Undercover']","['Emily Blunt', 'Tabitha Simmons']",['london undercover umbrella']
+2018_11_01,[],"['Q', 'Am', 'Maria Tash', 'Claire Foy', 'Manic', 'Anthony Vaccare']",['anthony vaccarello dress']
+2018_10_01,[],"['Brandon Maxwell', 'Ana Khou', 'Lady Gaga']","['ana khouri earrings', 'gaga']"
+2018_09_01,"['Man', '##UE', ""'"", 'Gucci']","['Beyoncé', 'Lynn Ban', 'Linda']",[]
+2018_09_01,['Manic'],"['Beyoncé', 'Alexander McQueen']",[]
+2018_08_01,"['P', '##rada']","['Della George', 'Tai', 'John Hardy', 'Saoir', '##se Ronan']",['prada stores']
+2018_07_01,[],"['##le Bündchen', '##ise', '##le', 'G', 'Gise']",[]
+2018_06_01,"['Dolce & Gabbana', '&']","['David Yurman', '##anna', '##ih', 'Sidney Garber', 'R']",['sidney garber earrings']
+2018_05_01,"['Top', 'Am', 'E']","['Tai', 'Della', 'Alexander McQueen']","['alexander mcqueen', 'mcqueen']"
+2018_04_01,"['Jewelry', 'Chanel Fine Jewelry', 'Chan']",['Kendall Jenner'],[]
+2018_03_01,['Diorskin'],['Alicia Vikander'],[]
+2018_02_01,[],"['Serena Williams', 'Eva Fe', 'Jennifer Meyer']","['eva fehren bracelet', 'jennifer meyer earrings']"
+2018_01_01,['Dior'],"['Lu', '##pit', '##a Nyong', 'o']",[]
+2017_12_01,['Tiffany & Co'],"['Michael Kors', '##ryl Streep', 'Fred Leighton', 'Me']","['actor meryl streep', 'fred leighton earrings']"
+2017_12_01,"['.', 'Dinosaur Designs', 'Chanel']","['##ar', 'Ph', '##rell Williams', 'I', '##ma', '##an Hammam', 'L', 'Bean']","['dinosaur designs earrings', 'pharrell', 'pharrell williams nan']"
+2017_11_01,[],"['Daisy Ridley', 'Anthony Vaccare']","['actor daisy ridley', 'anthony vaccarello dress']"
+2017_10_01,['Velvet Matt'],['Rooney Mara'],"['wears', 'rooney mara', 'valentino']"
+2017_09_01,['VOGUE'],[],['anniversary']
+2017_08_01,['Dream Cushion Foundation'],"['##n Malik', 'Z', 'G', '##igi', '##igi Hadid', '##ay']",[]
+2017_07_01,['Dinosaur Design'],"['Diane von Fu', '##day', 'Zen']","['zendaya', 'dinosaur', 'dinosaur designs']"
+2017_06_01,['Total Cover Foundation'],['Elle Fanning'],['elle fanning']
+2017_05_01,[],['Katy Perry'],['katy perry']
+2017_04_01,[],"['Michael Kors', 'Selena Gomez', 'Jennifer Fisher']","['selena gomez', 'jennifer fisher earrings', 'gomez', 'selena']"
+2017_03_01,[],"['Kendall Jenner', 'Ashley Graham', 'G', 'I', 'Liu Wen', '##igi Hadid']",['models liu wen']
+2017_02_01,['Le Teint Ultra'],"['Proen', 'Dakota Johnson', '##za Schou']","['sleeveless dress', 'dakota johnson']"
+2017_01_01,[],"['Ruth Negga', 'Rod']",['ruth negga']
+2016_12_01,['Teint Touche'],"['Carolina Herrera', '##ique Péan', 'Michelle Obama', 'Mon']","['michelle obama', 'michelle']"
+2016_11_01,"['##ible Pro - Glow Foundation', 'In']","['Michael Kors', 'Emma Stone']",[]
+2016_10_01,['La Base Pro Hydra'],"['Lu', '##pit', ""##a Nyong '"", 'Cathy Water']",['lupita']
+2016_09_01,['Crem'],['Kendall Jenner'],['kendall jenner']
+2016_08_01,['Nike'],"['G', 'Ashton Eaton', 'Jennifer Fisher', '##igi Hadid']",[]
+2016_07_01,[],"['Amy Schum', 'G']",['amy schumer']
+2016_06_01,[],"['Michael Kors', '##got Robbie', 'Mar']","['margot', 'margot robbie']"
+2016_05_01,[],"['Taylor Swift', 'He', '##di Slimane']","['swift', 'taylor swift']"
+2016_04_01,[],"['##ihanna', 'Tom Ford', 'R']",['rihanna']
+2016_03_01,['Dior Fine Jewel'],['Adele'],"['earrings', 'adele']"
+2016_02_01,"['Dolce & Gabbana', 'Lauren']","['##e Cruz', 'Ben Stiller', 'Cho', 'Pené', '##lop']","['penélope cruz', 'lauren', 'penélope']"
+2016_01_01,"['C', '##a']","['##za Schouler', 'Alicia Vikander', 'Pro', '##en']",['alicia vikander']
+2015_12_01,['Diorskin'],['Jennifer Lawrence'],"['jennifer lawrence', 'dress']"
+2015_11_01,"['Nordstrom', 'Boots']","['He', 'Angelina Jolie Pitt', '##di Slimane']","['hedi slimane sweater', 'angelina jolie pitt']"
+2015_10_01,"['H', 'La Base']","['Lu', '##pit', '##a Nyong']",['lupita']
+2015_09_01,"['Dream Wonder Foundation', 'Jacobs', 'Marc Jacobs', 'Face Studio Manicure']","['Beyoncé', 'Lisa Logan', 'Marc']",['marc jacobs stores']
+2015_08_01,"['Diorskin Nude Air Serum Foundation', 'Diorblush na']","['Nicole Kid', 'Marc Jacobs']","['marc jacobs', 'nicole kidman']"
+2015_07_01,['& Ch'],['Cara Delev'],"['cara delevingne', 'prada']"
+2015_06_01,"['Radiant Fluid Foundation', 'Dior']",['Amanda Seyfried'],[]
+2015_05_01,[],"['Carey Mulligan', 'Michael Kors']",['carey mulligan']
+2015_04_01,[],"['Serena Williams', 'Tate']","['serena', 'serena williams', 'tate diamond bracelets']"
+2015_02_01,[],"['##len', 'Dakota Johnson']","['balenciaga', 'tinted nan']"
+2015_01_01,[],"['Sienna Miller', '##ia Kim', '##ugen', 'E']","['sienna', 'sienna miller']"
+2014_12_01,['##ntino'],"['Vale', 'Amy Adams']",['amy adams']
+2014_11_01,"['Lu', 'Pa']",['Natalia Vodianova'],['natalia vodianova']
+2014_10_01,"['& G', 'Dolce & Gabbana', 'Cartier']",['Reese Witherspoon'],['cartier necklace']
+2014_09_01,"['Bergdorf', '##n Atelier', 'Finn Jewelry', '##houler', 'Donna']","['Pro', 'Kara', 'Sc', 'Karl', '##ie Kloss', 'Cara Delevingne', 'Joan Smalls']",['joan smalls']
+2014_08_01,[],['Blake Lively'],['blake lively']
+2014_07_01,['Tiffany & Co'],"['Lu', '##pit', 'Elsa Peretti', ""##a Nyong ' o""]",[]
+2014_06_01,['Dior'],"['##ize Theron', '##rl', 'Cha']","['glow dress', 'charlize theron']"
+2014_05_01,['Man'],"['April For', 'Emma Stone']","['gucci', 'select gucci boutiques']"
+2014_04_01,['##z'],"['##ber Elba', 'Al', 'Kim Kardashian']","['kardashian', 'kim kardashian']"
+2014_03_01,['V'],"['##ihanna', 'V', 'R']",[]
+2014_02_01,['! Foundation'],"['Lena Dunham', 'Man', 'Meg', '##umi Yamamoto']",[]
+2014_01_01,[],"['V', 'Cate Blanchett', 'C']",[]
+2013_12_01,[],"['Jessica Chastain', 'Olivier Theyske', 'Dr']",['jessica chastain']
+2013_11_01,"['Wang', 'Donna Karan New', 'Vera Wang Collection', '##n']","['Donna Kara', 'Kate Winslet', 'Vera']",[]
+2013_10_01,[],"['Sandra Bullock', 'Marc Jacobs']",[]
+2013_09_01,"['Garland Collection', 'Calvin Klein Collection']","['Manic', 'Jennifer Lawrence', 'Gina Viviano']","['jennifer lawrence', 'calvin klein collection']"
+2013_08_01,['De Beers'],['Claire Danes'],['claire danes']
+2013_07_01,"['Bell and Bird', 'Bergdorf Goodman']",['Katy Perry'],"['katy perry', 'katy']"
+2013_05_01,['Ren'],"['Carey Mulligan', 'Oscar de la', 'Oscar de la Ren']",['carey mulligan']
+2013_04_01,[],"['Reed K', 'Kimberly McDonald', 'Michelle Obama']",[]
+2013_03_01,['Barneys New York'],['Beyoncé Knowles'],['beyoncé knowles dress']
+,['Wang'],['Anne Hathaway'],['anne hathaway']
+,"['##eiman Marcus', 'N']","['##anna', '##ih', 'R']","['strapless dress', 'rihanna']"
+,['Chanel Haute Couture'],"['##ira Knightley', 'Ke', 'Gabrielle']","['mini gabrielle earrings', 'keira knightley']"
+2012_09_01,[],[],"['nan', 'nan nan']"
+2012_08_01,[],[],"['nan', 'nan nan']"
+2012_07_01,[],[],"['nan', 'nan nan']"
+2012_06_01,[],"['Serena Williams', 'Ryan', 'Michael Ko', 'Hope Solo', 'Michael', 'Williams']",['metallic swimsuits']
+2012_05_01,"['CLEEF', '##lee']",['Scarlett Johansson'],"['scarlett fever', 'scarlett johansson', 'scarlett']"
+2012_04_01,"['##ga Veneta', 'Bo', 'Her', 'Chien', '##ès']","['Alexis Dress', 'Jennifer Lopez']",['alexis dress']
+2012_03_01,[],[],"['nan', 'nan nan']"
+2012_02_01,[],"['Taylor Swift', 'Rod', 'Patricia Underwood']","['taylor swift', 'taylor']"
+2012_01_01,['Donna Karan'],"['Donna Kara', '##ryl Streep', 'Me']",[]
+2011_12_01,"['Di', 'Calvin Klein Collection']","['##ize Theron', '##rl', 'Cha']","['lame dress', 'charlize theron']"
+2011_11_01,['Ralph Lauren'],['Rooney Mara'],['rooney mara']
+2011_10_01,['Oscar de la Renta'],"['Harry Winston', 'la Ren', 'Michelle Williams']",['cover look']
+2011_09_01,"['##Que', '##ueen']","['Alexander McQ', 'Alexander Mc', 'Kate Moss']","['kate moss', 'supermodel bride']"
+2011_08_01,"['##uture Millinery', 'Suzanne']","['Suzanne', 'Pi', 'Sarah Jessica Parker', 'Stephen Russell', 'Co']",['burberry']
+2011_07_01,[],"['Solang', 'Emma Watson', 'Isaac Manev', '##e Azagury']","['emma', 'emma watson']"
+2011_06_01,['Dolce & Gabbana'],"['P', 'Penélope Cruz']",[]
+2011_05_01,"['de - Chine', '##repe', 'Makeup Liquid Foundation']","['Reese Witherspoon', 'Mo']",['reese witherspoon']
+2011_04_01,"['Chanel', 'Chan']","['##ihanna', 'R']",[]
+2011_03_01,"['Face and Body Foundation', 'Strobe Liquid Lotion']","['Kim', 'A', 'B', 'Lady Gaga']","['gaga', 'lady gaga', 'blot kimono robe']"
+2011_02_01,[],"['Pro', 'Kristen Stewart', '##E', 'R', '##za Schou']","['kristen', 'actress kristen stewart']"
+2011_01_01,['Tiffany & Co'],"['Men', 'J', 'Natalie Portman', 'Mendel']",['actress natalie portman']
+2010_12_01,[],"['Tom Ford', 'Angelina Jolie']","['jolie', 'actress angelina jolie']"
+2010_11_01,"['Ren', 'Renta', 'de']","['Oscar', 'la', 'Anne Hathaway', 'de la']",[]
+2010_10_01,[],['Carey Mulligan'],"['actress carey mulligan', 'mulligan']"
+2010_09_01,['Ralph Lauren'],"['Berry', 'Stephen Russell', 'Stephen', 'Halle Berry']",['actress halle berry']
+2010_08_01,[],"['##eth Paltrow', '##wyn', 'G', 'Paltrow']","['actress gwyneth paltrow', 'gwyneth']"
+2010_07_01,"[""' s Secret"", 'LA VIE EN', 'Dior', ""Victoria ' s Secret""]",['Marion Cotillard'],[]
+2010_06_01,"['Ceram', 'Chan']","['Blake Lively', 'Michael Ko']",[]
+2010_05_01,"['AMERIC', 'MS', 'Calvin Klein Collection']","['Fred Dress', 'Sarah Jessica Parker']",['fred dress']
+2010_04_01,['Noir Jewelry'],"['##ise', '##le Bü', '##chen', 'Stella McCartney', 'G']",[]
+2010_03_01,[],['Tina Fey'],"['tina', 'actress', 'actress tina fey', 'prada']"
+2010_02_01,"['RRL Ralph Lauren', 'Ralph Lauren', 'Belmont', 'Lauren']","['Derek', 'Douglas', 'Jessica Biel']",['actress jessica biel']
+2010_01_01,"['Dolce & Gabbana', 'Dolce & Gab']",['Rachel McA'],['actress rachel mcadams']
+2009_12_01,['Armani'],"['Donna Kara', '##e Blanchett', 'Cat']",['actress cate blanchett']
+2009_11_01,"['P', '##rada']","['Marion On Kidman', 'Nicole Kidman', 'Alexander McQueen']",['actress nicole kidman']
+2009_10_01,[],"['Harry', 'Harry Winston', 'Vuit', 'Michelle Williams']",['actress michelle williams']
+2009_09_01,['Dior'],"['##ize Theron', '##rl', 'Cha']",['actress charlize theron']
+2009_08_01,"['Ralph Lauren Collection', 'Ralph Lauren']","['Stephen Silk', 'Christy Turlington']",['model christy turlington']
+2009_07_01,"['Calvin Klein Collection', 'Klein']","['Sienna Miller', 'Nina Ricci']",['actress sienna miller']
+2009_06_01,[],"['Stella McCartney', 'Cameron Diaz', 'McKenzie', 'Gregor', 'B']",[]
+2009_05_01,"['Blumarine', 'J', 'Mendel']","['Li', 'Natalia Vodianova', 'Men', '##ya Kebede', 'Anna Jagodzin']",['silk dress']
+2009_04_01,['##ga'],"['Beyonce Knowles', 'Nicolas Ghesqui', 'De Beer']",['balenciaga']
+2009_03_01,[],"['Jason Wu', 'Michelle Obama']",['michelle']
+2009_02_01,[],"['Blake Lively', 'Marc Jacobs']","['marc jacobs', 'marc jacobs noir']"
+2009_01_01,[],[],"['nan', 'nan nan']"
+2008_12_01,['Bergdorf Goodman'],"['Jennifer Aniston', '##o Rodriguez']",['actress jennifer aniston']
+2008_11_01,"['Cartier', 'Bergdorf Goodman']","['Reese Witherspoon', 'Nina Ric']","['actress reese witherspoon', 'cartier diamond earrings']"
+2008_10_01,"['Barneys NewYork', 'rodarte', 'Herman', 'Dr']","['Rachel Weisz', 'Ron', 'Dean Harris']","['actress rachel weisz', 'dean harris dress']"
+2008_09_01,[],"['##ira Knightley', 'Nicolas Ghesqui', 'Ke']","['actress keira knightley', 'balenciaga']"
+2008_08_01,['##lencia'],"['Ba', 'N', '##eim', 'Marcus', 'De Beer', 'Nicolas Ghesquiere', 'Kate Moss']",['strass necklace']
+2008_07_01,"['Couture Eveningwear Department', '##dorf Goodman']","['Catherine Martin', 'Neck', 'Nicole Kidman']",['nicole']
+2008_06_01,['##ace'],"['Stephen Russell Dr', 'Sarah Jessica Parker', 'Carrie']",['stephen russell dress']
+2008_05_01,"['Robert Lee Morris Dr', 'Marcus', 'Renta', 'Robert Lee Morris Gallery']","['Oscar de la', '##eim', '##eth Paltrow', 'G', '##wyn', 'N', 'Oscar de la Ren']",['embroidered strapless dress']
+2008_04_01,"['Calvin Klein', 'Car', 'Klein']","['G', '##le Bündchen', '##ise']","['silk cord bracelet', 'model gisele bündchen']"
+2008_03_01,"['Barneys New York', 'Doyle & Doyle']","['La', 'Drew Barrymore']","['actress drew barrymore', 'barrymore']"
+2008_02_01,['Barneys New York'],"['Kate Bosworth', 'Georg Jensen', 'Derek Lam']",['actress kate bosworth']
+2008_01_01,"['Barneys New York', '##ks']",['Kate Hudson'],['actress kate hudson']
+2007_12_01,"['Dior Haute Dress', 'Oscar de la Renta', 'Dior']","['Penèlope Cruz', 'Oscar de la Ren']","['dior haute dress', 'actress penèlope cruz']"
+2007_11_01,"['##ssing', 'Chanel']","['Me', 'Sa', 'Jennifer Connelly']",[]
+2007_10_01,['##dorf Goodman'],"['##ize Theron', 'Cha', 'F', '##abi', '##o Cammarata', '##rl', 'Carolina Herrera']",['actress charlize theron']
+2007_09_01,[],"['##wi', 'Sienna Miller', 'K', '##at Asscher']","['sienna', 'actress sienna miller']"
+2007_08_01,['Pale Ryder'],"['##ona Ryder', 'Win', 'Marc Jacobs', 'De Beer']",['diamond earrings']
+2007_07_01,['Diamond'],"['Nina Ric', 'Natalia Vodianova']",['model natalia vodianova']
+2007_06_01,[],"['##ira Knightley', 'Nicolas Ghesqui', 'Ke']",['actress keira knightley']
+2007_05_01,"['Gap', 'It Girls Gap']","['Rodarte', 'T', 'Doo', 'Isaac', '##hak', 'Rod', 'R', 'Peter So', 'Peter Sorone']",[]
+2007_04_01,"['Dolce & Gabbana', '##US', '##lce & Gab', 'D']",['Scarlett Johansson'],"['scarlett fever', 'actress scarlett johansson', 'scarlett']"
+2007_03_01,[],[],"['nan', 'nan nan']"
+2007_02_01,['Nordstrom'],"['Michael Kors', 'Renee Zellweger']",['actress renee zellweger']
+2007_01_01,[],"['Angelina Jolie', 'Bill Blass']","['jolie', 'angelina', 'actress angelina jolie']"
+2006_12_01,[],['Nicole Kid'],[]
+2006_11_01,['##ut'],"['##e Blanchett', 'Cat', 'Lesage']",['actress cate blanchett']
+2006_10_01,[],"['Sandra Bullock', 'Carolina', 'Levi', 'Berg', 'Carolina Herrera', '##dorf Goodman']",['actress sandra bullock']
+2006_09_01,[],"['Mile', 'Ki', 'Marie Antoinette', '##rsten Dunst', 'Fred Leighton', '##na Canonero']",[]
+2006_08_01,"['##ta', '##ga V']",['Linda Evangelista'],['evangelista']
+2006_07_01,[],"['Kate Hudson', 'Nicolas Ghesqui']","['actress kate hudson', 'balenciaga']"
+2006_06_01,['Eres'],"['Martin Margiela', '##a Thurman', 'Um', 'Mai', '##gie']","['maison martin margiela', 'actress uma thurman']"
+2006_05_01,[],[],"['nan', 'nan nan']"
+2006_04_01,[],"['Jennifer Aniston', 'Alexander McQueen']","['mineral crepe gown', 'actress jennifer aniston']"
+2006_03_01,['P'],"['Renee Lewis', 'Natalie Portman']","['actress natalie portman', 'prada boutiques']"
+2006_02_01,"['Her', 'Hermès', 'Red']","['Michael Kors', 'Drew Barrymore']",['barrymore']
+2006_01_01,[],['Sienna Miller'],[]
+2005_12_01,[],"['##ira Knightley', '##eim', 'Marcus', 'Vera Wang', 'N', 'Ke']",['actress keira knightley']
+2005_11_01,"['Barneys New', '##strom']","['Reese Witherspoon', 'Nord', '##eiman Marcus', 'Vera Wang', 'N']","['actress reese witherspoon', 'reese']"
+2005_10_01,"['Calvin Klein', 'Dior']","['John Galliano', '##eth Paltrow', '##wyn', 'G']","['paltrow', 'actress', 'actress gwyneth paltrow', 'gwyneth']"
+2005_09_01,"['##ton', 'Barneys New', ""'""]","['Fred Leigh', '##rc', 'Dr', 'Fred', 'Sarah Jessica Parker', 'Mario', '##o Rodriquez', 'Na']",['fred leighton dress']
+2005_08_01,"['Emphatics', 'Bergdorf Goodman']","['John Galliano', 'Madonna', 'Mar']",['silk dress']
+2005_07_01,['Louis Vuitton'],"['Kate Winslet', 'Karen Karch']",['actress kate winslet']
+2005_06_01,[],[],"['nan', 'nan nan']"
+2005_05_01,"['##ut', 'Haute', 'Chan']","['##ya Kebede', 'Karl Lagerfeld', 'Li']",['karl lagerfeld dress']
+2005_04_01,[],"['Christian Lacroix Haute Co', 'Drew Barrymore']","['actress drew barrymore', 'barrymore']"
+2005_03_01,[],"['Sandra Bullock', 'Oscar de la Renta', 'Oscar de la Ren']",['actress sandra bullock']
+2005_02_01,[],[],"['nan', 'nan nan']"
+2005_01_01,"['##eiman Marcus', 'N', 'Carolina Herrera Store']","['Carolina', 'Jennifer Lopez']","['bright jennifer lopez', 'carolina herrera store']"
+2004_12_01,"['Ralph Lauren', 'Bergdorf Goodman']","['##e Blanchett', 'Cat', 'Ralph Lauren']",['ralph lauren stores']
+2004_11_01,['Vuit'],"['V', 'Jennifer Connelly']",['louis vuitton boutiques']
+2004_10_01,"['YSL', 'Diamond', '##an', '##dorf Goodman', '##auche Boutique']","['##ize Theron', 'Cha', 'Berg', '##eim', 'Marcus', 'G', '##rl', 'Yves Saint Laurent R', 'N']",['actress charlize theron']
+2004_09_01,[],"['##ia Werbow', 'Dar', 'Terry Rodgers', 'Marc Jacobs']",[]
+2004_08_01,[],"['Riley Keough', 'Riley', '##ris', '##cilla Presley', 'P']",[]
+2004_07_01,[],"['##rsten Dunst', 'Ki', 'V']",[]
+2004_06_01,['##dorf Goodman'],"['Cathy Water', 'Cathy Waterman', '##o Rodriguez', 'Na', 'Kate Hudson', '##is']",['cathy waterman diamond']
+2004_05_01,['Barneys New York'],"['Lac', 'Lorraine Schwartz', 'Nicole Kidman']","['actress nicole kidman', 'nicole']"
+2004_04_01,[],"['Jean', 'Neil Lane', 'Gwen Stefani']",['gwen stefani']
+2004_03_01,['Vera Wang'],"['Mark Walsh', 'Leslie Chin', 'Chin', 'Angelina Jolie', 'Linda']","['vera wang store', 'actress angelina jolie']"
+2004_02_01,"['.', 'Marc Jacobs Store']","['Dress', 'Marc', 'Lorraine E', 'Natalie Portman']","['actress natalie portman', 'marc jacobs store', 'natalie']"
+2004_01_01,"['Lu', '##x']","['Jennifer Aniston', 'V']",['actress jennifer aniston']
+2003_12_01,"['Prada Boutique', 'Neil Lane Jewelry']","['Renee Zellweger', 'N', '##eim', 'Marcus']",['neil lane jewelry']
+2003_11_01,"['Barneys New York', 'Bergdorf Goodman']","['Tom Ford', 'Harry Winston', '##a Thurman', '##rc', '##o Rodriguez', 'Um', 'Na', '##is']",['actress uma thurman']
+2003_10_01,[],"['##eth Paltrow', '##wyn', 'G']","['actress gwyneth paltrow', 'gwyneth']"
+2003_09_01,"['Neil Lane Jewelry Dr', 'Versace', 'Neil Lane Jewelry Bouti']",['Nicole Kidman'],['actress nicole kidman']
+2003_08_01,"['Fifth Avenue', 'Sa', 'Bergdorf Goodman']","['##eim', 'Sarah Jessica Parker', 'N', 'Marcus']",[]
+2003_07_01,['Neil Lane Jewelry'],"['Donna Kara', '##mi Moore', 'De']",['demi reloaded']
+2003_06_01,[],"['Reese Witherspoon', 'Fred Leighton']",['twill dress']
+2003_05_01,"['##uture', 'Angel']","['Cameron Diaz', '##el Chanel Haute Co', 'Chan']",[]
+2003_04_01,[],['Brooke Shields'],['brooke shields']
+2003_03_01,[],"['Tom Ford', '##ne Moore', 'Julian', 'G']","['actress julianne moore', 'long dress', 'gucci boutique']"
+2003_02_01,['Bergdorf Goodman'],"['Donna Kara', '##bra Messing', 'De', 'Funny Valentine']",['sashed halter dress']
+2003_01_01,['Bergdorf Goodman'],"['Sandra Bullock', '##rc', '##drig', '##o Rodriguez', '##o R', 'Na', '##is']","['actress sandra bullock', 'georgette']"
+2002_12_01,"['Gauche Boutique', '##auche']","['Tom Ford', 'Yves Saint Laurent', 'Halle Berry', 'G', 'Yves Saint Laurent R']",['actress halle berry']
+2002_11_01,"['Ralph Lauren Collection', 'Ralph Lauren']","['Jones', 'Catherine Zeta']","['ralph lauren stores', 'ralph lauren collection']"
+2002_10_01,"['Saks Fifth', 'Calvin Klein']","['Calvin Klein', 'Stephen Russell', 'Christy Turlington']","['model christy turlington', 'calvin klein stores']"
+2002_09_01,"['Barneys New York', 'Maxfield', 'Necklace', 'Manon Von Gerkan']","['Donna Kara', 'Man', '##on Von Gerkan', 'Kate Hudson']",['actress kate hudson']
+2002_08_01,"['Jewelry', 'Marc Jacobs Store']","['Jennifer Aniston', 'Neil Lane', 'Marc Jacobs', 'Pearl']","['marc jacobs store', 'actress jennifer aniston']"
+2002_07_01,['##an'],"['Tom Ford Tom Ford', '##eim', 'Marcus', 'Au', 'Amber Valle', '##den', 'N']",[]
+2002_06_01,['Missoni Boutique'],"['Ashley Judd', '##oni', 'Miss']",['actress ashley judd']
+2002_05_01,[],"['P', '##rada', 'Fred', 'Natalie Portman']","['actress natalie portman', 'natalie']"
+2002_04_01,['##dorf'],"['Goodman', 'Berg', '##rc', '##o Rodriguez', 'Na', 'Angelina Jolie', '##is']",['actress angelina jolie']
+2002_03_01,"['##w', 'Louis Vuitton Boutique']","['##loss', 'Louis Vuitton', 'G']","['louis vuitton', 'louis vuitton boutique']"
+2002_02_01,['Calvin Klein'],"['Dean Harris', 'Sarah Jessica Parker']",['earrings']
+2002_01_01,[],"['##ne Moore', 'Julian']","['cotton blouse', 'white cotton blouse', 'beaded tulle skirt']"
+2001_12_01,"['Arnell Group', 'Jean']","['Donna Karan New', 'G', '##isele Bundchen']","['gisele', 'bundchen', 'gisele bundchen']"
+2001_11_01,"['Dolce & Gabbana', 'Dolce & Gabbana Boutique', 'Star and Stripes']","['##ney Spears', '##rit', 'B']",[]
+2001_10_01,[],"['Carolyn Murphy', 'Tom Ford Gault', 'Gault', 'Paris']",['model carolyn murphy']
+2001_09_01,[],"['Tom Ford', 'Linda Evangelista', 'Yves Saint', 'Yves Saint Laurent']",['peasant skirt']
+2001_08_01,[],"['Baby', 'Amber']","['model amber valletta', 'baby cashmere jacket']"
+2001_07_01,[],"['Donna Kara', 'Donna Karan', 'Fred Leighton', 'Jones', 'Catherine Zeta']",['slip dress']
+2001_06_01,"['Final Home Store', 'OMO Norma', 'OMO Norma Kamali Boutique']","['G', 'Kamal', '##ise', '##le Bundchen']",['gisele bundchen']
+2001_05_01,['##or'],"['Christian Dior', 'Christian Di', 'Carmen Kass', 'Tom Binns']",['carmen kass']
+2001_04_01,[],"['René', '##e Zellweger']",['actress renée zellweger']
+2001_03_01,"['Ralph Lauren Collection', 'Polo Ralph Lauren']","['Po', 'Penelope Cruz', 'Bronze']",['actress penelope cruz']
+2001_02_01,"['Louis Vuitton', 'Louis Vuitton Boutique']","['##ina Kurkova', 'Ka', '##rol']","['vuitton', 'karolina kurkova', 'louis vuitton boutique']"
+2001_01_01,"['Calvin Klein', 'Klein']","['Calvin', 'Marion Jones']",['olympian marion jones']
+2000_12_01,[],[],"['nan', 'nan nan']"
+2000_11_01,['##t'],"['Angela Lindval', 'Mare', 'Carmen Kass', 'Leigh']","['carmen kass', 'silk velvet dress']"
+2000_10_01,['Giorgio Armani Boutique'],"['##ize Theron', '##rl', 'Fred Leighton', 'Cha']","['diamond drop earrings', 'giorgio armani boutique']"
+2000_09_01,[],"['Heather', 'Donna', 'Donna Karan', 'Bridget Hall']",['bridget hall']
+2000_08_01,"['P', 'MaxMara', '##rada']","['Fred Leighton', 'Carmen Kass', 'Helmut Lang']","['carmen kass', 'maxmara stores', 'shoes wool pantsuit']"
+2000_07_01,[],"['##e Blanchett', 'Cat', 'Helmut Lang']",['actress cate blanchett']
+2000_06_01,"['Prada', '##tier']","['Car', 'George Clooney', '##ise', 'Cartier', '##le', 'G']",[]
+2000_05_01,"['Saks Fifth', 'Ralph', 'Ralph Lauren', 'Polo Ralph Lauren']","['##le', 'G', 'Lauren', '##ise']",['ralph lauren collection']
+2000_04_01,['Louis Vuitton Boutique'],"['Carolyn Murphy', 'Louis Vuitton', 'Chan']","['louis vuitton boutique', 'louis vuitton']"
+2000_03_01,"['V', '##ace', 'G']","['V', 'Crystal']",['crystal silk dress']
+2000_02_01,[],[],"['nan', 'nan nan']"
+2000_01_01,"['##ucci', 'N', '##eiman']","['##ise', '##le', 'G', 'Jack', 'Louis', 'Carmen Kass']",[]
+1999_12_01,"['Dolce & Gabbana', 'Dolce & Gabbana Boutique']","['##le', 'G', '##ise']",['gisele']
+1999_11_01,"['Saks Fifth Avenue', 'N', '##eiman']","['Ralph Lauren', 'Lauren Hutton', '##le', 'G', '##isè', 'Kate Moss', 'Oscar de la Ren']",['kate moss']
+1999_10_01,"['##or', '##or Boutique']","['##ona Ryder', 'Win', 'Christian Di']","['christian dior boutique', 'winona ryder']"
+1999_09_01,"['Calvin Klein', 'B']","['Cathy Waterman', '##eth Paltrow', '##wyn', 'G']","['gwyneth paltrow', 'gwyneth']"
+1999_08_01,[],"['Carolyn Murphy', 'Ce']",['khaki cashgora coat']
+1999_07_01,[],"['##ise', 'Chloe Boutique', '##le', 'G', 'Chloe']",[]
+1999_06_01,"['Neck', 'Bergdorf Goodman']","['Donna Kara', '##an Marcus', 'Cathy Waterman', '##eim', 'Donna Karan', 'N', 'Nicole Kidman']",['actress nicole kidman']
+1999_05_01,"['Ralph Lauren S', '##wear']",['Carmen Kass'],['model carmen kass']
+1999_04_01,['D & G Dolce & Gabbana'],"['Kate Moss', 'Ta', 'Maggie Rizer']","['kate moss', 'models maggie rizer', 'taffeta skirt']"
+1999_03_01,['Emilio Pucci Boutique'],"['Carolyn Murphy', 'Ji', 'Emilio Pucci', 'Sa', '##l Sander']","['emilio pucci boutique', 'emilio pucci', 'actress carolyn murphy']"
+1999_02_01,['Van Cleef & Arpels'],"['Michael Kors', 'Stella Tennant', 'Maybe', 'Cotton']",['model stella tennant']
+1999_01_01,"['##eiman Marcus', 'N', 'Sa', 'Gucci']","['Gucci', 'Singer', 'Jewel']","['golden girl', 'actress jewel glimmers', 'gucci boutiques']"
+1998_12_01,[],[],"['nan', 'nan nan']"
+1998_11_01,[],['Helmut Lang'],['alpaca coat']
+1998_10_01,"['Ralph', 'Collection']","['Oprah Winfrey', 'Lauren']","['ralph lauren collection', 'oprah winfrey']"
+1998_09_01,"['N', '##eiman']","['Renee Zellweger', 'Nord', 'Oscar de la Renta', 'Sa']",['satin gown']
+1998_08_01,['Celine'],"['Carolyn Murphy', 'Michael Kors']","['cashmere turtleneck', 'cashmere']"
+1998_07_01,['Bergdorf Goodman'],"['Man', 'Claire', 'Claire Danes', 'Isaac Mizrahi', '##olo Blah']","['claire danes', 'claire']"
+1998_06_01,['Ralph Lauren Collection'],"['Sandra Bullock', 'Sandra', '##anne Assoulin', 'R', '##ox']","['ralph lauren collection', 'sandra bullock', 'sandra nan']"
+1998_05_01,"[""Macy ' s"", 'Calvin Klein']","['Elizabeth Hurley', 'Calvin Klein']",['bikini']
+1998_04_01,[],[],"['nan', 'nan nan']"
+1998_03_01,"['Prada', '##rada', 'P', 'N', '##eiman']","['Isaac Mizrah', 'Kate Moss', 'Marcus']",['silk satin dress']
+1998_02_01,[],"['Stella Tennant', 'Donna Karan']",[]
+1998_01_01,[],[],"['nan', 'nan nan']"
+1997_12_01,[],"['Bad', '##hal', '##gley Misch', 'S', 'Vera Wang', '##om Harlow']",[]
+1997_11_01,"['Holt Renfrew', 'Fifth', 'Sa']","['Stella Tennant', 'Louis Feraud']",['model stella tennant']
+1997_10_01,[],[],"['nan', 'nan nan']"
+1997_09_01,"['Saks Fifth', 'Holt Renfrew', 'Bergdorf Goodman']","['Linda Evangelista', '##ir', '##ger Christensen', 'B']",['fur flies']
+1997_08_01,['Bergdorf Goodman'],"['Georg', 'Isaac Mizrahi', '##ina Grenville']",['model georgina grenville']
+1997_07_01,"['##eiman Marcus', 'Nordstrom', 'Bergdorf Goodman', 'N', 'Ultimo']","['##ara Kabuku', 'Ki']",['model kiara kabukuru']
+1997_06_01,"['Tootsies', '##dorf Goodman']","['##a Thurman', 'Calvin Cotton', 'Um', '##c', 'L']",['actress uma thurman']
+1997_05_01,['##c'],"['Gucci', '##iki', '##ina Grenville', 'Georg', 'B']","['model georgina grenville', 'georgina']"
+1997_04_01,[],"['##ntino', 'Carolyn', 'Vale']",[]
+1997_03_01,"['P', '##rada', 'Bergdorf Goodman']","['##om Harlow', '##hal', 'S']","['model shalom harlow', 'silk dress']"
+1997_02_01,"['Versace', 'Tiffany & Co', '##ers']","['V', 'G', '##ian']",['gianni versace boutiques']
+1997_01_01,['Calvin Klein'],[],['silk jacket']
+1996_12_01,"['Fifth Avenue', 'Sa', '##an', 'Bergdorf Goodman']","['##eim', 'Marcus', 'Win', '##ona Winona Ryder', 'N']",['crystal gown']
+1996_11_01,"['##ONAT', '##TU']","['G', 'Gucci']",[]
+1996_10_01,['Bergdorf Goodman'],['Madonna'],"['madonna', 'viva evita']"
+1996_09_01,['Bloomingdale'],"['Lu', 'Donna Kate']",['satin dress']
+1996_08_01,"['Lord & Taylor', 'Polo / Ralph Lauren', 'Bergdorf Goodman']","['##eth Paltrow', '##wyn', 'G', 'Co']",['camel']
+1996_07_01,"['Calvin Klein', 'Bergdorf Goodman']",['Amber Valletta'],['model amber valletta']
+1996_06_01,"['M & J', '##ni Versace Boutique']","['##is Savitt', 'Kate Moss', 'Gian', 'Jan']",['silk dress']
+1996_05_01,['##K'],"['##i Taylor', 'Naomi Campbell', 'Nik']","['bikinis', 'models niki taylor', 'bikini']"
+1996_04_01,['##c'],"['Lisa Marie Presley', '##ibi Zibi', 'Presley', 'Henri Bendel', 'B']","['presley', 'lisa marie presley']"
+1996_03_01,"['Boutique', 'G', '##c']","['##ian', 'Claudia Schi']",['gianni versace boutique']
+1996_02_01,['Bergdorf Goodman'],"['Adele Kauff', '##hal', 'S', 'Calvin Klein', '##om Harlow']","['harlow', 'calvin klein']"
+1996_01_01,"['Chanel Boutique', 'Chan']","['Amber Valletta', 'Chan']",[]
+1995_12_01,"['Polo / Ralph Lauren', 'Marabou', 'Lauren', 'Bergdorf Goodman']","['Ralph Lauren', 'Julia Ormond']","['ralph lauren', 'ralph lauren collection', 'actress julia ormond', 'marabou silk dress']"
+1995_11_01,"[""Bloomingdale ' s"", ""Dayton ' s"", 'Lord & Taylor', 'Marshall Field', 'Nordstrom']",[],"['skiwear', 'haute style', 'polyester jacket']"
+1995_10_01,[],"['Richard Tyler', '##mi Moore', 'De', 'Tyler Traffic']",['actress demi moore']
+1995_09_01,"[""Dayton ' s"", 'Bergdorf Goodman']","['##om Harlow', 'Isaac Mizrah', '##hal', 'S']","['silk gown', 'silk moiré skirt']"
+1995_08_01,"['Bloomingdale', 'Lord & Taylor', 'Polo / Ralph Lauren']","['Linda Evangelista', 'Ralph Lauren']",['model linda evangelista']
+1995_07_01,"['Calvin Klein Footwear', 'Calvin Klein']",[],['dress']
+1995_06_01,"['##eiman Marcus', 'Nordstrom', 'Calvin Klein', 'Calvin Klein Collection', 'N', '##vue']",[],"['amber valletta', 'rayon dress']"
+1995_05_01,"['Barneys New York', '##c', 'Chanel', 'Chan']",['Claudia Schiffer'],['chanel boutiques']
+1995_04_01,"['##eiman Marcus', 'N']","['##ian', 'Kristen McMenamy', '##ni Versace', 'G', '##ni Vers']","['gianni versace boutiques', 'gianni versace']"
+1995_03_01,"['Polo / Ralph Lauren', 'Bergdorf Goodman']",['Claudia Schiffer'],[]
+1995_02_01,['##dorf Goodman'],"['Stephanie Seymour', 'Berg', '##eim', 'N', 'Marcus']",['rayon skirt']
+1995_01_01,['Barneys New York'],"['Ji', 'Karen Mulder', 'Romano', 'Linda Dresner', '##l Sander']",['model karen mulder']
+1994_12_01,['Bergdorf Goodman'],"['Ring', 'Fred Leighton', 'Claudia Schiffer', 'Henri Bendel']",['model claudia schiffer']
+1994_11_01,"['##an', 'Bergdorf Goodman']","['##ian', 'Cindy Crawford', '##ace', '##eim', 'Marcus', 'Park', '##ni V', 'G', 'N']",['model cindy crawford']
+1994_10_01,"['A', 'P']","['##no', 'S', '##y Hooty', 'Henri Bendel', 'Fred Hayman', '##ot']","['turtleneck', 'sequined jeans', 'silk jersey pants']"
+1994_09_01,"['Bloomingdale', '##eiman Marcus', 'N', 'Tiffany &']",['Marc Jacobs'],[]
+1994_08_01,['Chanel Boutique'],['Karen Mulder'],"['model karen mulder', 'dress']"
+1994_07_01,"['Fifth Avenue', 'Sa', 'Bergdorf Goodman']",['Isaac Mizrahi'],"['dress', 'silk dress']"
+1994_06_01,[],['Julia Roberts'],['actress julia roberts']
+1994_05_01,[],"['Em', '##io Armani', '##na Davis', 'Gee']","['actress geena davis', 'viscose jersey dress']"
+1994_04_01,"[""Macy ' s"", ""Bloomingdale ' s"", 'Polo / Ralph Lauren']",[],[]
+1994_03_01,"['##an', 'Chanel', 'Bergdorf Goodman']","['Linda Evangelist', 'N', '##eim', 'Marcus']",[]
+1994_02_01,"[""Bloomingdale '"", 'Mel & Me Ltd']","['Cindy Crawford', 'Mary Mahoney']",['model cindy crawford']
+1994_01_01,"['##ingdale', 'Chanel Boutique']","['Nik', '##i W']",[]
+1993_12_01,"['O', 'Ray']","['Sharon Stone', 'Norma Kamali']","['actress sharon stone', 'silk velvet dress', 'omo norma kamali', 'sharon']"
+1993_11_01,"['Hat, Whittall & Shon']",[],['byblos boutique']
+1993_10_01,"['Barneys New York', 'Punch', '##rivar', 'Theodore']","['##ona Ryder', 'Win', 'Cha']","['actress winona ryder', 'silver lamé dress']"
+1993_09_01,['Polo / Ralph Lauren'],['Linda Evangelist'],['model linda evangelista']
+1993_08_01,['Chanel Boutique'],[],[]
+1993_07_01,['Prada'],"['Ta', 'Claudia Schiffer']",[]
+1993_06_01,['Barneys New'],['Naomi Campbell'],['model naomi campbell']
+1993_05_01,[],[],[]
+1993_04_01,"['Lycra', ""Bloomingdale ' s"", 'Rayon', '##eiman Marcus', 'Bergdorf Goodman', 'N']",[],['shorts']
+1993_03_01,['Polo / Ralph Lauren'],[],['silk jacket']
+1993_02_01,['Polo / Ralph Lauren'],[],[]
+1993_01_01,"['Ralph Lauren', 'Polo / Ralph Lauren', 'Ralph', 'Ralph Lauren Collection', '##c']",[],"['ralph lauren collection', 'ralph lauren hats', 'ralph lauren classics']"
+1992_12_01,"['Saks Fifth Avenue', 'OMO Norma', '##i']","['##ie de La Falaise', 'Kamal', 'Yves Saint Laurent', 'Fred Segal Melrose', 'Luc']","['yves saint laurent', 'yves']"
+1992_11_01,[],"['Luigi', 'Richard Gere', 'Cindy Crawford', 'Bo', '##ggio Case']",[]
+1992_10_01,['Ultimo'],"['##a Stein', 'Madonna', 'Henri Bend', 'Shaun', 'Susan']",['madonna']
+1992_09_01,"[""Bloomingdale ' s"", '##dorf']",[],"['seventies', 'silk dress']"
+1992_08_01,[],[],"['nan', 'nan nan']"
+1992_07_01,"['Barneys New York', '##an Marcus', 'Bergdorf Goodman']","['N', '##eim']",['wool dress']
+1992_06_01,"[""L ' Animale"", '##c', '##rshleifer']","['Claudia Schiffer', 'Hi']",['model claudia schiffer']
+1992_05_01,[],['Claudia Schiffer'],['makeup']
+1992_04_01,['Gap'],[],"['gap stores', 'cotton shirts', 'cover look']"
+1992_03_01,['Chanel Boutique'],[],['chanel boutique']
+1992_02_01,['Polo / Ralph Lauren'],[],[]
+1992_01_01,"['Ralph Lauren', '##c']",['Cindy Crawford'],[]
+1991_12_01,"['##eiman Marcus', '##ks Fifth', 'Bergdorf Goodman', ""Macy ' s"", 'N', '##eiman']","['Marcus', 'Claudia Schiffer']","['festive shades', 'macy']"
+1991_11_01,"['s', 'Russet Star', ""Madison Ladies ' Boutique"", 'Coat', 'Bloomingdale', 'Lipstick']",['Claudia Schiffer'],['palette']
+1991_10_01,"['Fifth', 'Calvin Klein Store', 'Bergdorf Goodman', '.', 'Sa']","['Michelle Pfeiffer', 'Barnett', 'B']","['lipstick', 'cognac silk dress', 'firefly classic lipstick']"
+1991_09_01,"['Saks Fifth', 'Ralph Lauren', 'Polo / Ralph Lauren', '##eiman Marcus', 'N']",['Linda Evangelista'],"['ralph lauren', 'lip color']"
+1991_08_01,[],"['Martha', 'E', 'José', 'Karen Mulder', 'Barr']",[]
+1991_07_01,[],['Isaac Mizrah'],[]
+1991_06_01,"['Neiman', '##ni', 'G', '##ersace Boutique', 'Bergdorf Goodman']","['##jana Patitz', 'V', 'Ta', '##ian']",[]
+1991_05_01,['Caron Cherry'],"['Kim Basinger', '##var', 'George Newell', 'Cha']",[]
+1991_04_01,"['Barneys New York', '##ri']","['Liza Bruce', '##var', 'Cha']",['clothing']
+1991_03_01,['Chanel'],"['Cindy Crawford', 'Donna Kara']",[]
+1991_02_01,[],"['Bill', 'Gau', 'Yves Saint Laurent', 'Claudia Schi']",[]
+1991_01_01,"['##eiman Marcus', 'N', 'Chanel']","['I', 'Magni', 'Chan']",['silk jacket']
+1990_12_01,"['Vogue Accessories', '##eiman Marcus', 'Fifth Avenue', 'N', 'Sa']",[],"['ostrich feather dress', 'flower earrings']"
+1990_11_01,"['Taylor', 'Fe', ""Macy '"", ""Maybelline ' s""]",['Morgan'],['macy']
+1990_10_01,['Fall'],"['Cindy Crawford', 'Ji', 'Janet Brown', '##l Sand']",['model cindy crawford']
+1990_09_01,"['##love', 'N', '##eim', 'Bergdorf Goodman']","['Marcus', 'Martha', 'Bill Blass']",['real color']
+1990_08_01,[],[],[]
+1990_07_01,"['Barneys New York', 'Revlon', 'Costa MesaCA', 'Bergdorf Goodman']",[],[]
+1990_06_01,"['Cattlebone', 'Crem', 'du Sol']","['Linda', 'Henri Bendel']",[]
+1990_05_01,[],[],"['nan', 'nan nan']"
+1990_04_01,[],[],[]
+1990_03_01,[],[],"['nan', 'nan nan']"
+1958_03_15,[],['René Bouché'],"['portrait', 'rené bouché']"
+1958_03_01,"['##ell', 'Train']",['Nor'],['seduction']
+1958_02_15,[],[],[]
+1958_02_01,[],[],"['fashion', 'americana', 'fashion nan']"
+1958_01_15,[],[],"['uncrushable wool jersey', 'blouse']"
+1958_01_01,[],[],"['nan', 'nan nan']"
+1957_12_01,[],[],"['souffle', 'souffle nan']"
+1957_11_15,[],[],"['earrings', 'necklace']"
+1957_11_01,[],[],[]
+1957_10_15,[],[],"['nan', 'nan nan']"
+1957_10_01,[],[],['dashing coats']
+1957_09_15,[],[],[]
+1957_09_01,[],[],['soft bulk']
+1957_08_15,[],[],['young fashion']
+1957_08_01,[],[],"['hairdresser', 'hat']"
+1957_07_01,[],"['I', 'Du', 'Magni', 'Sally Victor']",[]
+1957_06_01,[],[],['filmy organdie hat']
+1957_05_01,[],[],[]
+1957_04_15,[],[],['garnet flowers']
+1957_04_01,[],[],['mink']
+1957_03_15,['Vogue'],[],[]
+1957_03_01,[],[],"['nan', 'blue']"
+1957_02_15,[],[],['satin cloche']
+1957_02_01,[],[],[]
+1957_01_15,[],[],"['nan', 'beginning', 'remaking']"
+1957_01_01,[],[],"['hats', 'turbans']"
+1956_12_01,['Vogue'],"['Din', '##a Merrill']","['dina', 'dina merrill', 'vogue']"
+1956_11_15,[],[],"['nan', 'nan nan']"
+1956_11_01,[],[],"['nan', 'news', 'evening']"
+1956_10_15,[],[],['cashmere']
+1956_10_01,[],[],"['fashion news', 'fashion']"
+1956_09_15,[],[],[]
+1956_09_01,[],[],"['lynx', 'brilliant red']"
+1956_08_15,[],[],"['nan', 'nan nan']"
+1956_08_01,[],[],"['fur linings', 'winter jackets']"
+1956_07_01,['Vogue'],[],[]
+1956_06_01,[],"['##lon', 'John', 'Rev']","['rosy peach', 'rosy']"
+1956_05_15,[],[],[]
+1956_05_01,['News'],[],"['fashion', 'dress']"
+1956_04_15,[],[],"['cotton', 'red']"
+1956_04_01,[],[],[]
+1956_03_15,[],[],['coat']
+1956_03_01,[],[],[]
+1956_02_15,[],[],['beige']
+1956_02_01,[],[],['hat']
+1956_01_01,[],[],[]
+1955_12_01,[],[],['major fashions']
+1955_11_15,[],[],['hat']
+1955_11_01,['##or'],['Di'],[]
+1955_10_15,[],[],['cape']
+1955_10_01,[],[],['little suit']
+1955_09_15,[],[],['hat']
+1955_09_01,[],[],['magazine']
+1955_08_15,[],[],['red tweed']
+1955_08_01,"['Vogue', 'Am']",[],['overcoat']
+1955_07_01,['##con'],[],[]
+1955_06_01,[],[],[]
+1955_05_15,"['Vogue', 'Conde Nast']",[],['vogue']
+1955_05_01,[],[],[]
+1955_04_15,[],[],"['fashion', 'plan', 'nan']"
+1955_04_01,[],[],"['nan', 'beret']"
+1955_03_15,[],[],"['fashion', 'valid fashion']"
+1955_03_01,['Vogue'],"['Norell', 'Train']","['fashion', 'vogue']"
+1955_02_15,[],[],"['nan', 'nan nan']"
+1955_02_01,[],[],"['1955', 'nan', 'americana', 'americana issue']"
+1955_01_01,[],[],['sheath dress']
+1954_12_01,"['Vogue', 'Dior Paris']",[],['holiday stamp']
+1954_11_15,[],[],"['sweater', 'cashmere']"
+1954_11_01,['Vogue'],[],[]
+1954_10_15,['##ell'],['Nor'],[]
+1954_10_01,[],[],['dress']
+,[],[],"['nan', 'nan nan']"
+1954_09_01,[],[],"['nan', 'nan nan']"
+1954_08_15,[],[],['tweed']
+1954_08_01,['Vogue'],[],['young fashion nan']
+1954_07_01,[],[],['bathing suit']
+1954_06_01,['Vogue'],[],['new automobile accessory']
+1954_05_15,[],['Sally Victor'],['sally']
+1954_05_01,[],['Nor'],[]
+1954_04_15,[],[],[]
+1954_04_01,[],[],"['nan', 'nan nan']"
+1954_03_15,[],[],[]
+1954_03_01,[],[],"['nan', 'nan nan']"
+1954_02_15,[],[],['fashion']
+1954_02_01,[],[],"['nan', 'americana', 'americana nan']"
+1954_01_01,[],[],[]
+1953_12_01,[],[],"['fashion news', 'fashion', 'christmas parties', 'nan']"
+1953_11_15,[],[],['veils']
+1953_11_01,[],[],"['presents', '300 christmas presents']"
+1953_10_15,[],[],"['nan', 'nan nan']"
+1953_10_01,[],[],[]
+1953_09_15,[],[],"['nan', 'nan nan']"
+1953_09_01,[],['Ben Zuckerman'],['suit']
+1953_08_15,[],[],"['nan', 'nan nan']"
+1953_08_01,[],[],"['blazer', 'bright blazers']"
+1953_07_01,['Vogue'],[],"['beach brown', 'swimmer']"
+1953_06_01,[],[],[]
+1953_05_15,[],['We'],[]
+1953_05_01,[],[],"['smart treatment', 'psychoanalysis']"
+1953_04_15,['Valentina'],['Vale'],['valentina']
+1953_04_01,[],[],[]
+1953_03_15,['Vogue'],[],['vogue']
+1953_03_01,[],[],['nan']
+1953_02_15,[],[],['hats']
+1953_02_01,[],[],"['number', 'nan', 'americana number', 'americana']"
+1953_01_01,[],[],['sleeveless jersey nan']
+1952_12_01,[],[],['alpaca']
+1952_11_15,[],[],['stamen']
+1952_11_01,[],[],['white blanketing']
+1952_10_15,['Vogue'],[],[]
+1952_10_01,[],[],[]
+1952_09_15,[],[],"['dark red velvet', 'velvet', 'coat']"
+1952_09_01,[],[],[]
+1952_08_15,[],[],['sweater']
+1952_08_01,[],[],['forstmann wool']
+1952_07_01,[],[],[]
+1952_06_01,[],[],"['fashion', 'dress']"
+1952_05_15,[],[],['costumes']
+1952_05_01,[],[],"['city summer', 'clover']"
+1952_04_15,['Vogue'],[],['silky printed nan']
+1952_04_01,[],['Charles James'],['hats']
+1952_03_15,[],"['##tie Carnegie', 'Hat']",['shantung scarf']
+1952_03_01,[],[],"['heel', 'nan']"
+1952_02_15,[],[],"['nan', 'nan nan']"
+1952_02_01,[],[],"['nan', 'americana', 'americana nan']"
+1952_01_01,[],[],[]
+1951_12_01,[],[],['december hat']
+1951_11_15,[],['Balencia'],[]
+1951_11_01,[],[],[]
+1951_10_15,[],[],"['fingernails', 'nan']"
+1951_10_01,[],[],[]
+1951_09_15,[],[],"['fabric', 'winter', 'coat']"
+1951_09_01,[],[],['silhouette']
+1951_08_15,[],[],['suit skirts']
+1951_08_01,[],[],['mink']
+1951_07_01,[],[],['beach']
+1951_06_01,['Vogue'],[],"['bouffant', 'vogue']"
+1951_05_15,[],[],[]
+1951_05_01,[],[],[]
+1951_04_15,"['Vogue', '##tern']",[],['vogue pattern nan']
+1951_04_01,[],[],[]
+1951_03_15,['Echo'],[],['blue silk shantung']
+1951_03_01,[],[],[]
+1951_02_15,[],[],[]
+1951_02_01,[],[],"['nan', 'nan nan']"
+1951_01_01,[],[],['timetable']
+1950_12_01,[],[],"['immemorial', 'nan']"
+1950_11_15,['Vogue'],[],['vogue']
+1950_11_01,[],[],['dinner']
+1950_10_15,[],[],"['daytime version', 'nan', 'daytime']"
+1950_10_01,[],"['##pp', '##ola', 'Co']",[]
+1950_09_15,[],[],"['necklace', 'decisive accessories']"
+1950_09_01,['##a'],['Train'],['jacket']
+1950_08_15,['Vogue'],[],['vogue']
+1950_08_01,[],[],['blue']
+1950_07_01,['Vogue'],[],[]
+1950_06_01,[],['Larry Aldrich'],['summer story']
+1950_05_15,[],[],[]
+1950_05_01,[],[],"['jewellery', 'new jewellery idea']"
+1950_04_15,[],[],"['moygashel linen', 'mascara']"
+1950_04_01,[],[],['satin']
+1950_03_15,[],[],['whiteness']
+1950_03_01,[],[],['suit']
+1950_02_15,[],['Paul'],"['bonnet', 'robin']"
+1950_02_01,[],[],"['americana issue', '1950 eyes', '1950']"
+1950_01_01,[],['Pigue'],['piguet']
+1949_12_01,[],['Mainbo'],[]
+1949_11_15,[],[],['earrings']
+1949_11_01,[],[],['fashion']
+1949_10_15,['Lamb'],['Persian'],"['lamb', 'persian lamb']"
+1949_10_01,['Hamdma'],[],"['wool flannel', 'wool', 'investment']"
+1949_09_15,[],[],[]
+1949_09_01,[],"['I', '##tie Rosenstein', 'Magni', 'Net']",['silk satin']
+1949_09_01,[],[],['hat']
+1949_08_15,[],['Came'],"['camel', 'wool jacket']"
+1949_08_01,[],[],['cardigan']
+1949_07_01,[],[],"['issue', 'summer reader issue', 'reader', 'nan', 'summer']"
+1949_06_01,[],[],['white lace']
+1949_05_15,[],[],[]
+1949_05_01,[],['Miriam'],"['earrings', 'rhinestones']"
+1949_04_15,[],[],"['clothes', 'life', 'colors']"
+1949_04_01,[],[],[]
+1949_03_15,[],['Henri'],[]
+1949_03_01,['Spring News'],[],"['spring news illustration', 'scarf', 'bird']"
+1949_02_15,['DuPont'],[],"['brassiere', 'french lace']"
+1949_02_01,[],[],['1949']
+1949_01_01,[],['Stroo'],"['pale coat', 'pale hat']"
+1948_12_01,['Vogue'],['Eugene Berman'],['eugene berman']
+1948_11_15,[],[],[]
+1948_11_01,[],[],['nan']
+1948_10_15,[],[],['evening beauty']
+1948_10_01,[],['Legro'],[]
+1948_09_15,['Vogue Couturier Design for Dressmaking'],[],['vogue couturier design']
+1948_09_01,[],[],"['incoming star', 'collar']"
+1948_08_15,[],[],"['nan', 'nan nan']"
+1948_08_01,[],[],[]
+1948_07_01,[],[],['rockefeller']
+1948_06_01,[],[],['dress']
+1948_05_15,[],[],"['sailing', 'sailing parties']"
+1948_05_01,[],[],"['nan', 'possible', 'beauty', 'impossible']"
+1948_04_01,[],[],['summer evening']
+1948_03_15,[],[],['fashion']
+1948_03_01,[],[],"['dress', 'veil']"
+1948_02_15,['Vogue'],[],[]
+1948_02_01,[],[],['1948']
+1948_01_01,[],[],"['nan', 'nan nan']"
+1947_12_01,[],[],"['costume plays', 'crinoline evening dresses']"
+1947_11_15,[],[],['motley']
+1947_11_01,[],[],"['fashion', 'nan']"
+1947_10_15,[],['Li'],"['lipstick', 'lipstick colours']"
+1947_10_01,[],[],"['silk', 'intense colour', 'velvet']"
+1947_09_15,['Vogue Designs for Dressmaking'],[],"['vogue designs', 'dressmaker']"
+1947_09_01,[],[],[]
+1947_08_15,[],[],['skirt']
+1947_08_01,[],[],"['crown', 'silk nan']"
+1947_07_15,[],[],['striped tweed coat']
+1947_07_01,[],[],['cucumber']
+1947_06_15,[],['Manet'],[]
+1947_06_01,[],['Frances Sider'],['rayon']
+1947_05_15,[],['Eugène Berman'],['summer nan']
+1947_05_01,[],[],"['mirror', 'model']"
+1947_04_15,[],['Penn'],"['penn', 'nan']"
+1947_04_01,[],['Christian Dior'],"['new house', 'christian dior']"
+1947_03_15,['##ntina'],['Vale'],['red wool']
+1947_03_01,[],[],"['nan', 'nan nan']"
+1947_02_15,[],[],['beige']
+1947_02_01,[],[],"['fashion', 'americana', 'nan']"
+1947_01_15,[],[],"['turban', 'hat']"
+1947_01_01,['Vogue'],[],[]
+1946_12_15,[],"['Santa', 'Ray Bolger']",['santa']
+1946_12_01,[],[],"['double dali', 'dali']"
+1946_11_15,[],[],['bracelet']
+1946_11_01,[],[],"['dress', 'square']"
+1946_10_15,[],[],['cosmetics']
+1946_10_01,[],[],[]
+1946_09_15,[],[],['tailor']
+1946_09_01,[],[],[]
+1946_08_15,[],[],[]
+1946_08_01,[],[],"['autumn forecast', 'autumn', 'hat']"
+1946_07_01,[],[],['spectacles']
+1946_06_01,[],[],['dress']
+1946_05_15,[],['Cecil Beaton'],[]
+1946_05_01,[],[],['summer']
+1946_04_15,[],[],['spring']
+1946_04_01,[],[],"['fashion', 'dress']"
+1946_03_15,[],[],['fresh country colour']
+1946_03_01,[],[],['waistcoat']
+1946_02_15,[],[],"['nan', 'nan nan']"
+1946_02_01,"['##tone', 'G']",[],"['americana gemstone nan', 'americana', 'nan', 'gemstone']"
+1946_01_15,[],[],[]
+1946_01_01,[],[],['fleece']
+1945_12_15,[],[],"['debut', 'debutante']"
+1945_12_01,[],[],['ancient symbol']
+1945_11_15,['Vogue'],[],[]
+1945_11_01,[],[],"['beauty', 'beauty change']"
+1945_10_15,[],[],[]
+1945_10_01,[],[],[]
+1945_09_15,['Vogue'],[],['vogue nan']
+1945_09_01,[],['Madame Valentino'],[]
+1945_08_15,[],"['Blumen', '##feld']","['cover', 'nan', 'blumenfeld', 'famous']"
+1945_08_01,[],[],"['atonal furs', 'natural asiatic nan']"
+1945_07_01,['Museum of Modern Art'],['Marcel Duchamp'],[]
+1945_07_01,"['Modern', 'Vogue']",['Marcel Duchamp'],[]
+1945_06_01,[],[],['june cover']
+1945_05_01,[],[],['summer beauty']
+1945_04_15,[],[],"['nan', 'women']"
+1945_04_01,['Vogue'],['Eugene Berman'],[]
+1945_03_15,['Red Cross'],[],['nan']
+1945_03_01,[],['Jeanne Rousseau'],['hat']
+1945_02_15,['Vogue Design for Dressmaking'],[],[]
+1945_02_01,[],[],"['nan', 'americana', 'americana nan']"
+1945_01_15,[],['Re'],"['decoration', 'white silk faille']"
+1945_01_01,[],[],['gown']
+1944_12_15,[],"['##tie Carnegie', 'E', 'Hat']",['beret']
+1944_12_01,[],[],['harem']
+1944_11_15,[],[],"['white moire broadtail', 'fur']"
+1944_11_01,[],[],['beauty']
+1944_10_15,[],[],[]
+1944_10_01,[],[],[]
+1944_09_15,[],"['Antoine', 'G', '##ers', '##h']",['gershwin']
+1944_09_01,['Nor'],['Train'],"['superlative fox stole', 'jumper']"
+1944_08_15,[],"['H', 'L']",[]
+1944_08_01,[],['H'],[]
+1944_07_01,"['En', 'Filene']","['Alt', 'Bonwi', 'Teller']",['enka rayon crepe']
+1944_06_01,[],['Nina Wolf'],[]
+1944_05_15,[],[],"['beauty cover', 'flowers']"
+1944_05_01,[],[],"['cotton', 'cotton town suit']"
+1944_04_15,['##a'],[],['pink rodier wool']
+1944_04_01,[],['Salvador Dali'],"['painting', 'infinite emptiness', 'dali']"
+1944_03_15,[],[],"['nan', 'nan nan']"
+1944_03_01,[],[],"['nan', 'nan nan']"
+1944_02_15,[],[],"['nan', 'nan nan']"
+1944_02_01,[],[],"['nan', 'americana', 'americana nan']"
+1944_01_15,[],[],['veil']
+1944_01_01,[],['Dorothy Gray'],[]
+1943_12_15,[],"['##tie Carnegie', 'Hat']",['carnegie']
+1943_12_01,[],[],"['nan', 'nan nan']"
+1943_11_15,[],[],"['nan', 'nan nan']"
+1943_11_01,[],[],"['nan', 'nan nan']"
+1943_10_15,[],[],"['nan', 'nan nan']"
+1943_10_01,[],[],"['nan', 'nan nan']"
+1943_09_15,[],[],['cotton velvet']
+1943_09_01,[],[],"['nan', 'nan nan']"
+1943_08_15,[],[],['cover']
+1943_08_01,[],[],['greatcoat']
+1943_07_15,['En'],['Clare Potter'],['summer reader']
+1943_07_01,[],[],"['nan', 'nan nan']"
+1943_06_15,[],[],"['nan', 'nan nan']"
+1943_06_01,['Taylor'],"['Lord', 'Gale']",[]
+1943_05_15,['Vogue'],"['Susan', '##n Shaw']",['susann shaw']
+1943_05_01,"['Q', 'Pink']","['. Magni', 'I', 'Marshall Field', 'Bonwit Teller', 'Ever']",[]
+1943_04_15,[],[],['handkerchief linen']
+1943_04_01,[],['Lilly Dache'],['spring shower']
+1943_03_15,[],[],"['nan', 'nan nan']"
+1943_03_01,[],[],['suit']
+1943_02_15,[],[],[]
+1943_02_01,[],[],"['nan', 'americana', 'americana nan']"
+1943_01_15,['Peck'],['St'],"['red coat', 'coat']"
+1943_01_01,['Vogue'],['Joyce'],['vogue']
+1942_12_15,[],['Gun'],[]
+1942_12_01,[],[],"['nan', 'nan nan']"
+1942_11_15,[],"['##tie Rosenstein', 'Rod', 'Net']","['rodier wool jersey', 'jersey gloves']"
+1942_11_01,[],[],"['nan', 'beautiful', 'time']"
+1942_10_15,[],['Carolyn Mode'],"['black fox hat', 'wool']"
+1942_10_01,[],[],['accessories']
+1942_09_15,[],"['Alt', 'Dorothy', 'Do', '##bbs']","['hat', 'felt hat', 'tweed suit']"
+1942_09_01,[],[],"['nan', 'nan nan']"
+1942_08_15,[],['W'],['beige']
+1942_08_01,[],[],"['nan', 'nan nan']"
+1942_07_15,[],[],[]
+1942_07_01,['United We'],[],['nan model']
+1942_06_15,['##tier'],['Car'],[]
+1942_06_01,[],[],[]
+1942_05_15,[],[],"['nan', 'nan nan']"
+1942_05_01,[],"['Marshall', 'Tell', 'Wrag', 'Bon', '. H', 'B']","['cotton', 'rayon']"
+1942_04_15,[],['Carolyn Mode'],[]
+1942_04_01,['Botany'],[],[]
+1942_03_15,[],['Rod'],['grey woollen suit']
+1942_03_01,['##t'],"['Nor', 'Ma', 'Train', 'I']",[]
+1942_02_15,[],['Hat'],"['eternal triangle', 'nan', 'eternal', 'triangle']"
+1942_02_01,"['Morale Corps', 'American', 'Service Corps']",[],['wartime women']
+1942_01_15,[],[],"['hat', 'helmet']"
+1942_01_01,[],[],[]
+1941_12_15,[],[],"['grecian robe', 'long white candles', 'nan woman']"
+1941_12_01,[],[],"['nan', 'nan nan']"
+1941_11_15,"['of Vanderbilt', 'New York Society']",[],['vanderbilt']
+1941_11_01,[],"['Bet', '##tina Bollegard']","['bettina', 'bettina bollegard']"
+1941_10_15,[],['Carolyn Mode'],[]
+1941_10_01,[],[],['feet']
+1941_09_01,[],"['##tie Rosenstein', 'Net']","['velveteen', 'beloved velveteen']"
+1941_08_15,[],[],"['jacket', 'skirt', 'american dirndl skirt']"
+1941_08_01,[],[],"['hats', 'autumn hats']"
+1941_07_15,[],[],"['autumn', 'fashion', 'nan', 'forecast']"
+1941_07_01,[],[],['women']
+1941_06_15,[],[],['camera']
+1941_06_01,[],['Gay'],[]
+1941_05_15,[],[],[]
+1941_05_01,['DuPont'],[],"['bright tulips', 'dupont rayon crepe']"
+1941_04_15,[],[],"['nan', 'nan nan']"
+1941_04_01,[],['Helena'],"['necklace', 'blossoms']"
+1941_03_15,[],['Germaine Monteil'],[]
+1941_03_01,['Vogue'],[],['vogue']
+1941_02_15,[],[],[]
+1941_02_01,[],[],"['nan', 'americana', 'americana nan']"
+1941_01_15,[],['Pauline'],['hats']
+1941_01_01,['##blant'],[],[]
+1940_12_15,[],[],[]
+1940_12_01,['Vogue'],[],['vogue']
+1940_11_15,[],[],"['nan', 'nan nan']"
+1940_11_01,['Vogue'],"['##rming', 'Prince Cha']",['prince charming']
+1940_10_15,[],[],"['nan', 'nan nan']"
+1940_10_01,[],[],"['nan', 'nan nan']"
+1940_09_15,[],[],[]
+1940_09_01,[],[],['black beaded nan']
+1940_08_15,[],[],['socks']
+1940_08_01,[],['Lilly Dach'],[]
+1940_07_15,[],[],['nan cover illustration']
+1940_07_01,[],[],[]
+1940_06_15,[],[],"['nan', 'nan nan']"
+1940_06_01,"['Vogue', 'Ray']",[],[]
+1940_05_15,[],['Gene Tierney'],['gene tierney']
+1940_05_01,[],"['Germaine Monteil', 'Tell', 'Bon', 'Monte']",[]
+1940_04_15,[],['Halldis Prince'],['miss halldis prince']
+1940_04_01,[],[],"['sequin stars', 'pale blue tulle']"
+1940_03_15,[],[],['wool nan']
+1940_03_01,[],[],['panama hat']
+1940_02_15,['R'],['Charles'],[]
+1940_02_01,"['##ar', 'Vogue', 'Cartier']",['Dub'],[]
+1940_01_15,[],[],['turban']
+1940_01_01,[],[],"['nan', 'nan nan']"
+1939_12_15,[],[],['skier']
+1939_12_01,[],[],"['nan', 'nan nan']"
+1939_11_15,[],[],"['nan', 'nan nan']"
+1939_11_01,[],"['Ho', 'Arden', '##rst', 'Elizahe']",[]
+1939_10_15,['##strom'],['Graf'],[]
+1939_10_01,[],"['##tie Rosenstein', 'Net']",[]
+1939_09_15,[],"['##érard', 'B']",['hip drapery']
+1939_09_01,['##t'],"['Bonwi', 'Tell']",['creed jacket']
+1939_08_15,[],['Heather'],['plaid skirt']
+1939_08_01,[],['Gun'],['new furs']
+1939_07_15,[],['Heim'],['wool jersey']
+1939_07_01,[],['Sally Victor'],['shiny white sharkskin']
+1939_06_15,[],[],[]
+1939_06_01,[],['Salvador Dali'],"['salvador dali', 'dali']"
+1939_05_15,[],['John'],"['polo', 'gingham blouse']"
+1939_05_01,['Vogue'],[],[]
+1939_04_15,"['Lord and Taylor', 'Celane']",[],"['moroccan slippers', 'sharkskin slacks']"
+1939_04_01,[],[],"['orchid', 'left face']"
+1939_03_15,['Dove'],[],"['flying', 'paris', 'dove', 'nan']"
+1939_03_01,[],['Agnes'],"['agnes vernal hat', 'agnes']"
+1939_02_15,[],[],['winged hats']
+1939_02_01,[],"['W', '##ld Gordon', '##ito']","['witold gordon', 'murals']"
+1939_01_15,['Marshall'],"['Su', 'Suzanne Eisendeck', '##zy']",['suzanne eisendeck']
+1939_01_01,[],[],"['dark red gabardine', 'snow leopard']"
+1938_12_15,[],['Toni Frissell'],[]
+1938_12_01,[],[],"['nan', 'nan nan']"
+1938_11_15,[],[],"['nan', 'nan nan']"
+1938_11_01,[],[],"['nan', 'nan nan']"
+1938_10_15,[],[],"['nan', 'nan nan']"
+1938_10_01,[],[],"['nan', 'nan nan']"
+1938_09_15,[],['Schiaparelli'],[]
+1938_09_01,[],['Benito'],['benito']
+1938_08_15,[],[],['college girl']
+1938_08_01,[],[],[]
+1938_07_15,[],"['su', 'Eisendieck']",['eisendieck']
+1938_07_01,[],['Yrand'],['quilted piqué']
+1938_06_15,[],[],"['nan', 'drink', 'table']"
+1938_06_01,[],[],"['nan model swimming', 'swimming', 'water', 'nan', 'model']"
+1938_05_15,[],[],"['huge hats', 'hats']"
+1938_05_01,[],[],"['nan', 'nan nan']"
+1938_04_15,"['Peck', '##me']","['Willau', 'Talon']","['linen', 'dress']"
+1938_04_01,[],[],"['nan', 'nan nan']"
+1938_03_15,[],[],"['woman', 'nan', 'hat', 'hat nan', 'hen']"
+1938_03_01,[],"['##érard', 'B']","['giant flowers', 'vaseful', 'flowers']"
+1938_02_15,[],"['Ho', '##rst', 'Angelica Welldon']","['pinks', 'lavenders']"
+1938_02_01,['Vogue'],[],"['number', 'vogue']"
+1938_01_15,[],[],"['nan', 'nan nan']"
+1938_01_01,[],['Rene Willaumez'],['master mixing']
+1937_12_15,[],[],"['nan', 'nan nan']"
+1937_12_01,[],['Pierre Roy'],['pierre roy']
+1937_11_15,[],[],"['nan', 'nan nan']"
+1937_11_01,[],[],"['nan', 'nan nan']"
+1937_10_15,[],[],"['nan', 'nan nan']"
+1937_10_01,[],[],"['nan', 'nan nan']"
+1937_09_15,[],[],"['nan', 'nan nan']"
+1937_09_01,[],[],"['nan', 'nan nan']"
+1937_08_15,[],['Toni Frissell'],"['toni frissell', 'toni']"
+1937_08_01,[],['Pierre Roy'],"['painting', 'pierre roy']"
+1937_07_15,[],[],"['nan', 'nan nan']"
+1937_07_01,[],[],"['nan', 'nan nan']"
+1937_06_15,[],[],"['nan', 'nan nan']"
+1937_06_01,[],[],"['nan', 'nan nan']"
+1937_05_15,[],[],"['nan', 'nan nan']"
+1937_05_01,[],[],"['nan', 'nan nan']"
+1937_04_15,[],[],['brides']
+1937_04_01,['##ENIT'],"['H', 'B']",['benito']
+1937_03_15,[],[],[]
+1937_03_01,[],[],"['nan', 'nan nan']"
+1937_02_15,[],['ta'],[]
+1937_02_01,[],[],[]
+1937_01_15,[],[],"['spanish hats', 'hats']"
+1937_01_01,[],[],['nan']
+1936_12_15,['H'],[],['jean pages']
+1936_12_01,[],[],"['nan', 'nan nan']"
+1936_11_15,[],[],"['nan', 'nan nan']"
+1936_11_01,[],[],"['nan', 'nan nan']"
+1936_10_15,[],[],"['nan', 'nan nan']"
+1936_10_01,[],['B'],[]
+1936_09_15,[],[],"['nan', 'nan nan']"
+1936_09_01,[],[],"['nan', 'nan nan']"
+1936_08_15,[],[],"['nan', 'nan nan']"
+1936_08_01,[],[],"['nan', 'nan nan']"
+1936_07_15,[],[],"['nan', 'nan nan']"
+1936_07_01,[],[],"['nan', 'nan nan']"
+1936_06_15,[],[],"['nan', 'nan nan']"
+1936_06_01,[],[],"['nan', 'nan nan']"
+1936_05_15,[],[],[]
+1936_05_01,[],[],"['nan', 'nan nan']"
+1936_04_15,[],[],"['nan', 'nan nan']"
+1936_04_01,"['BR', '##EATO', 'CECI']",[],['cecil beaton']
+1936_03_15,[],[],"['nan', 'nan nan']"
+1936_03_01,[],[],"['nan', 'nan nan']"
+1936_02_15,['ER'],[],['brush']
+1936_02_01,[],[],"['nan', 'nan nan']"
+1936_01_15,[],[],"['nan', 'nan nan']"
+1936_01_01,"['J', 'ALA']","['ST', 'H', '##EI']",[]
+1935_12_15,[],[],"['nan', 'nan nan']"
+1935_12_01,"['##hl', '##urge']","['Bo', '##rue', '##ruehl', 'B']","['bruehl', 'bourges']"
+1935_11_15,[],[],"['nan', 'nan nan']"
+1935_11_01,[],[],"['nan', 'nan nan']"
+1935_10_15,[],[],"['nan', 'nan nan']"
+1935_10_01,[],[],"['nan', 'nan nan']"
+1935_09_15,[],[],"['nan', 'nan nan']"
+1935_09_01,[],"['##w', 'Sherbato']",['sherbatow']
+1935_08_15,[],[],"['nan', 'nan nan']"
+1935_08_01,[],[],"['nan', 'nan nan']"
+1935_07_15,[],[],"['nan', 'nan nan']"
+1935_07_01,[],[],"['nan', 'nan nan']"
+1935_06_15,[],[],"['nan', 'nan nan']"
+1935_06_01,[],[],"['nan', 'nan nan']"
