@@ -15,6 +15,9 @@ fuzzywuzzy[speedup]
 ipykernel
 jupyter
 seaborn
+matplotlib
+scipy
+statsmodels
 # For spaCy English models, these are not pip packages but should be installed after pip:
 # python -m spacy download en_core_web_sm
 # python -m spacy download en_core_web_trf 

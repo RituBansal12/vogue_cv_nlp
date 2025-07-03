@@ -9,3 +9,9 @@ Extracted data from Vogue Archive using proquest through Toronto Public Library.
 Data Processing:
 1. extract_cover_attributes.py - Using FashionCLIP for no shot item recognition for cover images to identify attributes about the apparel 
 2. extract_metadata_attributes.py - Using NER(hugging face transformers), KeyBert(Keyphrase extraction), and SpaCy(Noun Phrase extraction) to identify brands, people, and apparel attributes mentioned in the caption.
+
+Visualizations:
+1. eda.ipynb - Showed signs of cross-correlation and cyclical trends between attributes
+2. fashion_cycle_visualization.py - creates visualizations on cycle lengths(using autocorrelation)
+3. cross_correlation_visualization.py - Calculates cross-correlation between attributes to see which trends appear together
+4. brand_popularity_analysis.py - Creates top brand in 5 year by cover mentions
