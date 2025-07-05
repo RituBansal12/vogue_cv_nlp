@@ -1,6 +1,8 @@
 # vogue_cv_nlp
 Analyzing vogue covers from June 1935 to June 2025 to identify key trends in fashion. 
 
+Blog: https://medium.com/@ritu.bansalrb00/forecasting-fashion-using-data-science-to-decode-a-century-of-vogue-history-06e00ef27782
+
 Data Extraction:
 Extracted data from Vogue Archive using proquest through Toronto Public Library. Downloaded PDF of cover images and metadata between the June 1935-June 2025. 
 1. extract_covers.py - Goes over the raw pdf to extract cover images and link it to the publish date using metadata
