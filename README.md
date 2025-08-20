@@ -18,7 +18,7 @@ Analyze a century of Vogue covers to discover apparel attributes, brand mentions
 12. [Dependencies](#dependencies)
 13. [Notes / Limitations](#notes--limitations)
 14. [Contributing](#contributing)
-15. [License](#license)
+15. [Data License](#data-license)
 
 ---
 
@@ -245,6 +245,6 @@ Contributions welcome via PRs/issues. Please describe changes and include before
 
 ---
 
-## License
+## Data License
 
-If you intend to reuse or extend this work, please add a LICENSE file. Data is sourced from Vogue Archive via ProQuest; ensure usage complies with their terms.
+Data is sourced from Vogue Archive via ProQuest; ensure usage complies with their terms.
